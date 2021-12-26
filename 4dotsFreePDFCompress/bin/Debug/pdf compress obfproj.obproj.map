@@ -1,0 +1,1582 @@
+﻿<Mappings><Entry OldName="_4dotsFreePDFCompress.HSL.h" NewName="_4dotsFreePDFCompress.HSL.c053df15a7508cadcaebc99539b5b4278" />
+<Entry OldName="_4dotsFreePDFCompress.HSL.s" NewName="_4dotsFreePDFCompress.HSL.c69daa1467a325b52d53db4d432b7f45d" />
+<Entry OldName="_4dotsFreePDFCompress.HSL.l" NewName="_4dotsFreePDFCompress.HSL.c4b6effea32f6feabbee92b09b5986b31" />
+<Entry OldName="_4dotsFreePDFCompress.CustomForm.LoadComplete" NewName="_4dotsFreePDFCompress.CustomForm.c64459119761352a4c203a7a23ce77eeb" />
+<Entry OldName="_4dotsFreePDFCompress.CustomForm.tooltip" NewName="_4dotsFreePDFCompress.CustomForm.c571be60bdde55808196da5a498cafed5" />
+<Entry OldName="_4dotsFreePDFCompress.CustomForm.components" NewName="_4dotsFreePDFCompress.CustomForm.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.DownloadSuggestionsHelper.tsiDownloadRoot" NewName="A.c240d28525d6b1d0bb86c316447ebf3d7.cd331406e0546c36172a8ff56544a0211" />
+<Entry OldName="_4dotsFreePDFCompress.DownloadSuggestionsHelper.Category" NewName="A.c240d28525d6b1d0bb86c316447ebf3d7.c03646c846d8e83dd3ce2a8d15076bc19" />
+<Entry OldName="_4dotsFreePDFCompress.DownloadSuggestionsHelper.App" NewName="A.c240d28525d6b1d0bb86c316447ebf3d7.c45f86aa53d17ba9ca364ccdc60002209" />
+<Entry OldName="_4dotsFreePDFCompress.DownloadSuggestionsHelper.Url" NewName="A.c240d28525d6b1d0bb86c316447ebf3d7.c0c742cc21e219cbbb2141b1934731b8d" />
+<Entry OldName="_4dotsFreePDFCompress.frmDownloadUpdate._DownloadFile" NewName="_4dotsFreePDFCompress.frmDownloadUpdate.ce00b64adbcd2bc314d79fb4bd47191ed" />
+<Entry OldName="_4dotsFreePDFCompress.frmDownloadUpdate.components" NewName="_4dotsFreePDFCompress.frmDownloadUpdate.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.frmDownloadUpdate.pgBar" NewName="_4dotsFreePDFCompress.frmDownloadUpdate.ceff05165d0a87f8e3dc54c31a3c1eac1" />
+<Entry OldName="_4dotsFreePDFCompress.frmDownloadUpdate.btnCancelDownload" NewName="_4dotsFreePDFCompress.frmDownloadUpdate.c9edbee8480ba96a2d513ea86c84aa1a4" />
+<Entry OldName="_4dotsFreePDFCompress.frmDownloadUpdate.bwDownload" NewName="_4dotsFreePDFCompress.frmDownloadUpdate.cfd62b5720a06e8a089c2cf6273499e0d" />
+<Entry OldName="_4dotsFreePDFCompress.frmDownloadUpdate.label1" NewName="_4dotsFreePDFCompress.frmDownloadUpdate.c003c234b15bdac99f1f91487405613dc" />
+<Entry OldName="_4dotsFreePDFCompress.frmDownloadUpdate.lblTotalSize" NewName="_4dotsFreePDFCompress.frmDownloadUpdate.cd9bd7b281cdbec2f329ca8687a7f9622" />
+<Entry OldName="_4dotsFreePDFCompress.frmMultipleFiles.BatchJoin" NewName="_4dotsFreePDFCompress.frmMultipleFiles.c9bd81ebf644373bc5ef6210c77876344" />
+<Entry OldName="_4dotsFreePDFCompress.frmMultipleFiles.components" NewName="_4dotsFreePDFCompress.frmMultipleFiles.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.frmMultipleFiles.lblBatchJoin" NewName="_4dotsFreePDFCompress.frmMultipleFiles.c6348800eb37ee9993f130651949b7f86" />
+<Entry OldName="_4dotsFreePDFCompress.frmMultipleFiles.btnCancel" NewName="_4dotsFreePDFCompress.frmMultipleFiles.cdf16ab2bb197ab10ec8e15eaf4c31804" />
+<Entry OldName="_4dotsFreePDFCompress.frmMultipleFiles.btnOK" NewName="_4dotsFreePDFCompress.frmMultipleFiles.cb4fdae6c24bd529572d1e81b82eb4003" />
+<Entry OldName="_4dotsFreePDFCompress.frmMultipleFiles.label2" NewName="_4dotsFreePDFCompress.frmMultipleFiles.c4b4e3f83be732df2f52622d0e8bc5848" />
+<Entry OldName="_4dotsFreePDFCompress.frmMultipleFiles.btnBrowse" NewName="_4dotsFreePDFCompress.frmMultipleFiles.cb55dc3b6f45cf9d79e7ff3b0641df9a4" />
+<Entry OldName="_4dotsFreePDFCompress.frmMultipleFiles.openFileDialog1" NewName="_4dotsFreePDFCompress.frmMultipleFiles.ce7f3b849072bc3e9a11e244912fd9c6f" />
+<Entry OldName="_4dotsFreePDFCompress.frmPromotion.components" NewName="_4dotsFreePDFCompress.frmPromotion.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.frmPromotion.label1" NewName="_4dotsFreePDFCompress.frmPromotion.c003c234b15bdac99f1f91487405613dc" />
+<Entry OldName="_4dotsFreePDFCompress.frmPromotion.lnkPromotion" NewName="_4dotsFreePDFCompress.frmPromotion.c22d219ba8889c9dbe52772043605937a" />
+<Entry OldName="_4dotsFreePDFCompress.frmPromotion.picPromotion" NewName="_4dotsFreePDFCompress.frmPromotion.c5e80d709dd89aa03c93dc1c32241c191" />
+<Entry OldName="_4dotsFreePDFCompress.frmPromotion.btnOK" NewName="_4dotsFreePDFCompress.frmPromotion.cb4fdae6c24bd529572d1e81b82eb4003" />
+<Entry OldName="_4dotsFreePDFCompress.frmResult.components" NewName="_4dotsFreePDFCompress.frmResult.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.frmResult.label1" NewName="_4dotsFreePDFCompress.frmResult.c003c234b15bdac99f1f91487405613dc" />
+<Entry OldName="_4dotsFreePDFCompress.frmResult.label3" NewName="_4dotsFreePDFCompress.frmResult.c2baaa54ed1ee8b2a61c6a2afe45671ff" />
+<Entry OldName="_4dotsFreePDFCompress.frmResult.label2" NewName="_4dotsFreePDFCompress.frmResult.c4b4e3f83be732df2f52622d0e8bc5848" />
+<Entry OldName="_4dotsFreePDFCompress.frmResult.progressBar1" NewName="_4dotsFreePDFCompress.frmResult.c5d6f8551ced4743d03781e5c2670ec5a" />
+<Entry OldName="_4dotsFreePDFCompress.frmResult.label4" NewName="_4dotsFreePDFCompress.frmResult.cb55fe12d60c31f324aa3a856f13dd8e3" />
+<Entry OldName="_4dotsFreePDFCompress.frmResult.btnOK" NewName="_4dotsFreePDFCompress.frmResult.cb4fdae6c24bd529572d1e81b82eb4003" />
+<Entry OldName="_4dotsFreePDFCompress.frmSettings.InitialChoice" NewName="_4dotsFreePDFCompress.frmSettings.c21b40e2e43d671a94121786405cdbf83" />
+<Entry OldName="_4dotsFreePDFCompress.frmSettings.components" NewName="_4dotsFreePDFCompress.frmSettings.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.frmSettings.btnOK" NewName="_4dotsFreePDFCompress.frmSettings.cb4fdae6c24bd529572d1e81b82eb4003" />
+<Entry OldName="_4dotsFreePDFCompress.frmSettings.btnCancel" NewName="_4dotsFreePDFCompress.frmSettings.cdf16ab2bb197ab10ec8e15eaf4c31804" />
+<Entry OldName="_4dotsFreePDFCompress.frmSettings.chkAllowSharing" NewName="_4dotsFreePDFCompress.frmSettings.c88ad24df0d3127c570b38022e5247d2b" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.Title" NewName="A.cf1beede11cc5fa6c281e6576464ed404.c80838ce83262e02462dafff7ef806be8" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.Author" NewName="A.cf1beede11cc5fa6c281e6576464ed404.cb12a22e70af14d0d25f021685e167078" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.Subject" NewName="A.cf1beede11cc5fa6c281e6576464ed404.c9817e23e38667cc2a8f5814d0dda619a" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.Keywords" NewName="A.cf1beede11cc5fa6c281e6576464ed404.ce8e37a721896619e6263056f61144e61" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.CreationDate" NewName="A.cf1beede11cc5fa6c281e6576464ed404.c6c4caeb33ccb7415f91b05e4c77382ab" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.ModificationDate" NewName="A.cf1beede11cc5fa6c281e6576464ed404.c9ad1a8299ce57a04486db43f64fe8abe" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.Creator" NewName="A.cf1beede11cc5fa6c281e6576464ed404.c3cef7c0397af5d109fbb3365d697cc28" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.SetDocInfo" NewName="A.cf1beede11cc5fa6c281e6576464ed404.c0b8fabb16ab2bf71434e2edb4108064d" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.CANCELLED" NewName="A.cf1beede11cc5fa6c281e6576464ed404.c821f5e7572a49faac60a4f8fbacf618a" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.DefaultPassword" NewName="A.cf1beede11cc5fa6c281e6576464ed404.c617d944addef49a82974f09e02f84b54" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.ErrMultiple" NewName="A.cf1beede11cc5fa6c281e6576464ed404.c36b46d566b56257650c8c33cbb0e93e9" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.BytesBefore" NewName="A.cf1beede11cc5fa6c281e6576464ed404.cf0152c736d9ba1556fdae717bed0ac43" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.BytesAfter" NewName="A.cf1beede11cc5fa6c281e6576464ed404.cc773b2fd555b89c405f9ba52b6f537c1" />
+<Entry OldName="_4dotsFreePDFCompress.frmAbout.components" NewName="_4dotsFreePDFCompress.frmAbout.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.frmAbout.lblAbout" NewName="_4dotsFreePDFCompress.frmAbout.c64ab58a5311bb78111a683307b4988ee" />
+<Entry OldName="_4dotsFreePDFCompress.frmAbout.btnClose" NewName="_4dotsFreePDFCompress.frmAbout.c7e6512074879fa89519ebd5d78aa0928" />
+<Entry OldName="_4dotsFreePDFCompress.frmAbout.pictureBox1" NewName="_4dotsFreePDFCompress.frmAbout.c2bbf9c411418d7845f5920d665472947" />
+<Entry OldName="_4dotsFreePDFCompress.frmLanguage.components" NewName="_4dotsFreePDFCompress.frmLanguage.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.frmLanguage.label1" NewName="_4dotsFreePDFCompress.frmLanguage.c003c234b15bdac99f1f91487405613dc" />
+<Entry OldName="_4dotsFreePDFCompress.frmLanguage.cmbLanguage" NewName="_4dotsFreePDFCompress.frmLanguage.c7ecf738b941a76365aaf114ec787395a" />
+<Entry OldName="_4dotsFreePDFCompress.frmLanguage.btnOK" NewName="_4dotsFreePDFCompress.frmLanguage.cb4fdae6c24bd529572d1e81b82eb4003" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.IsDragging" NewName="_4dotsFreePDFCompress.frmMain.cdfb535cab68d0a6ffa063453636be5c6" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.CompressImages" NewName="_4dotsFreePDFCompress.frmMain.c21907cf0eebfc7cbf0f76a6ca37c43b7" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.ImagesQuality" NewName="_4dotsFreePDFCompress.frmMain.c55636d1e2120ac2d450dcc55ec6d983c" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.OutputDir" NewName="_4dotsFreePDFCompress.frmMain.ce436a6f39ad54b10cf88881ec7e81d76" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.OverwritePDF" NewName="_4dotsFreePDFCompress.frmMain.cc72fcad0a6fc0c03441b4ae0ec2477c0" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.KeepBackup" NewName="_4dotsFreePDFCompress.frmMain.c60b63fef160511c6ad3a27d3ad050899" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.components" NewName="_4dotsFreePDFCompress.frmMain.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.menuStrip1" NewName="_4dotsFreePDFCompress.frmMain.cf04cf0d0c6e17a2248213d443d4273ea" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.fileToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.cffda849f8598c5555c0ccb99e11dc99b" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.exitToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c3bfd2aac57ddc35ae65adaf79994ee51" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.helpToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.cab32859917316ff82563031988395ff8" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.helpGuideToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.cf5fc46db35ccb90745cf8c0c27baac31" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.aboutToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c0d971283bcfe4d4ccee6d815a3c5119c" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.openFileDialog1" NewName="_4dotsFreePDFCompress.frmMain.ce7f3b849072bc3e9a11e244912fd9c6f" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.saveFileDialog1" NewName="_4dotsFreePDFCompress.frmMain.c57f693bb1d41ff81340e0401360dd706" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.folderBrowserDialog1" NewName="_4dotsFreePDFCompress.frmMain.c245aa737499632db7c612f1043e9a7e4" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tiHelpFeedback" NewName="_4dotsFreePDFCompress.frmMain.cf6203420aa333e0b23a771e27618b501" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.contextMenuStrip1" NewName="_4dotsFreePDFCompress.frmMain.ca9faa3f111e276371b845d9d818f221e" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.exploreToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.cd9d7db934a59ff05ce97a27576b8aa36" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.toolStripMenuItem1" NewName="_4dotsFreePDFCompress.frmMain.c067469288ac6ae089a1772cf4dc5b288" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.dgFiles" NewName="_4dotsFreePDFCompress.frmMain.cb43298d37d32d939f529b27fc568730b" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.downloadToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.caa060c699695f65fd6479d9698c2ebbd" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.ccb7be54d715bc1875ad83366f0ec3d21" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.languageToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.ce0df12e2ad60137d3bd7de9736d8caed" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.btnOpenFolder" NewName="_4dotsFreePDFCompress.frmMain.cb9da1073e13b19f421abe8c05930b6b5" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.btnChangeFolder" NewName="_4dotsFreePDFCompress.frmMain.cde7d68c0f0e6890ea61e19ac56715f51" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.folderBrowserDialog2" NewName="_4dotsFreePDFCompress.frmMain.c2793f54d69c943cc9867451704cbe6d6" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.groupBox1" NewName="_4dotsFreePDFCompress.frmMain.c97db40cf6fea93d5fca553f76f30eeb6" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.toolStrip1" NewName="_4dotsFreePDFCompress.frmMain.c614a17dc77f026834faf649d029b9d17" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsbRemove" NewName="_4dotsFreePDFCompress.frmMain.caafc70a118372f6796a83385567b751d" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.toolStripSeparator1" NewName="_4dotsFreePDFCompress.frmMain.c79fde93e6f21b7cd00a35dbd7f97f039" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsbCompress" NewName="_4dotsFreePDFCompress.frmMain.c72244255a9038c606cc2ac0ccf61c102" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.toolTip1" NewName="_4dotsFreePDFCompress.frmMain.c5bb7f2f2ad5aecf403cca7940cd1d8a4" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.openToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.cc0b5710627019efb1d19663372840e59" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.colFilename" NewName="_4dotsFreePDFCompress.frmMain.ca58f51fcb624bc0461d1db14afad77a7" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.colUserPassword" NewName="_4dotsFreePDFCompress.frmMain.cf048e017d6a1455a96ed712a3541ae4e" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.colSize" NewName="_4dotsFreePDFCompress.frmMain.c3cb37c4acaef744055dae2e4ced65396" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.colFileDate" NewName="_4dotsFreePDFCompress.frmMain.cc14cd51ec24a06f7eb3650febb31bc51" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.colFullFilePath" NewName="_4dotsFreePDFCompress.frmMain.cae7281740a767d1c36cc6565b1c7a53b" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.removeToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.ca5a92f6ecd932cb36b7f6eae6b3810aa" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.followUsOnTwitterToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.cf6e71de66803ff9d2816da9b5e81ab99" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.documentsMedataToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c2015c4a8c288d54d7942e8758101e944" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.grpImageQuality" NewName="_4dotsFreePDFCompress.frmMain.c74b7b5002591985c7e842ffd9da3028c" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.label1" NewName="_4dotsFreePDFCompress.frmMain.c003c234b15bdac99f1f91487405613dc" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tbQuality" NewName="_4dotsFreePDFCompress.frmMain.c579909ecd7dd0d911920a63f0478faf8" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsbShare" NewName="_4dotsFreePDFCompress.frmMain.caf7398d172a73870ea4c0709b83f42ff" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsiFacebook" NewName="_4dotsFreePDFCompress.frmMain.c0d73cb3ce592faa8eebe7683d62d518a" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsiTwitter" NewName="_4dotsFreePDFCompress.frmMain.cb0c7b1988040325b56ed04b550abcd52" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsiGooglePlus" NewName="_4dotsFreePDFCompress.frmMain.c07257c49c94557bd77f674d096d46551" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsiLinkedIn" NewName="_4dotsFreePDFCompress.frmMain.c8324276e39d6d64c8743df10d41e5fc6" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsiEmail" NewName="_4dotsFreePDFCompress.frmMain.cbd5cda5b62355ee01ae624ca52469dfa" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.toolStripSeparator2" NewName="_4dotsFreePDFCompress.frmMain.c98e1d23ba3970f883f96b0fc2ddb607f" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.toolStripSeparator3" NewName="_4dotsFreePDFCompress.frmMain.cccb429019a9fcfcbe015b6954de07fdd" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.optionsToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c5e3f8db32ad514a5443db7e05b89fde0" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.keepFolderStructureToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c1f111fc3f193f1e53ab1d506e78487e6" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.luminatiHelperToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c82dd64029f883ad1dbb706f47bff3e83" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.doNotAskForPasswordToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c81cbaff3a03ad50a3f68c9b349fc002f" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.addFilesToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.cd312023f1336c266198d8a322fb873cd" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.addFolderToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.caf7648e1a40681fdae024c0043c3d081" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.toolStripMenuItem2" NewName="_4dotsFreePDFCompress.frmMain.c4fa83703344a15bdd9b0c07997b2d3b3" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.importFromTextFileListToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c7fa20ed8463b7c8afba3f07df8a8497d" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.importFromExcelFileToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.ca93c4637cac6b8457771e7cd3f94507f" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.toolStripMenuItem3" NewName="_4dotsFreePDFCompress.frmMain.c2347145513b71eafdb9059d2eabf8c39" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.editToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c5149109b34875b2c7314a9192efcfa48" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.removeToolStripMenuItem1" NewName="_4dotsFreePDFCompress.frmMain.cb522e5f9144a499608ca5d3bfdc12306" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.clearToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.ce935ad6588fe7869d831a65446dd5495" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.toolStripMenuItem4" NewName="_4dotsFreePDFCompress.frmMain.c815547d73b26ce28d23c822d40aeb2ff" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.selectAllToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.ced6f9fb224d279c50d04cf5cb887e0b6" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.selectNoneToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c135ef3f669e63b16d1e29c52daa951f6" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.invertSelectionToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c1928cbe3ff4fb4d57c0b5ed9ed6b5f19" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.toolsToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.ccaefe271783a437f84a6579f842e58b7" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.compressToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c8df606b016aff5ed748db4a602b338a7" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.enterFileListToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.cac2576502cbda8cf7f0c15c1c9c0aa58" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.saveFileListToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c33081bebd5968fff03f5c6be14fc67a3" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.toolStripMenuItem5" NewName="_4dotsFreePDFCompress.frmMain.c63d09ecfa3faf920b47b4d33d2fe0122" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.donateViaPaypalToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c1723d7024bd3c2fe36609dc4fdac33f5" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.youtubeChannelToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c6067067a10f4e0c32a2ac7201699e1da" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.checkForNewVersionEachWeekToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c8f4d325412dc77db218eb2057337d522" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.keepCreationDateToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.cbf96eac789070b71fc4d24d067b0f511" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.keepLastModificationDateToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c9455b2771a1056dbdb5d6bb88c038ae5" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.exploreOutputFolderWhenDoneToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c0a723fcef789be3558d59f0821639d0b" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.showMessageOnSuccessToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.caff6f9befd54fb30676e539b7988abba" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.showResultWindowToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.ce0307200b178de67b8cc56ad68ef7010" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tryOnlineVersionAtOnlinepdfappscomToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c09758011200491cb4a602584c58581c0" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.commandLineArgumentsToolStripMenuItem" NewName="_4dotsFreePDFCompress.frmMain.c4764cdf7b67c3eccf1247cb58b78be4e" />
+<Entry OldName="_4dotsFreePDFCompress.frmMessage.ForCommandLineArgs" NewName="_4dotsFreePDFCompress.frmMessage.c547708bd8ae34e08bb59700505758dfb" />
+<Entry OldName="_4dotsFreePDFCompress.frmMessage.components" NewName="_4dotsFreePDFCompress.frmMessage.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.frmMessage.btnOK" NewName="_4dotsFreePDFCompress.frmMessage.cb4fdae6c24bd529572d1e81b82eb4003" />
+<Entry OldName="_4dotsFreePDFCompress.frmMessage.btnCopy" NewName="_4dotsFreePDFCompress.frmMessage.cf68c039d5a389362c4fc85d9bfa5c803" />
+<Entry OldName="_4dotsFreePDFCompress.frmOutputSubFolder.components" NewName="_4dotsFreePDFCompress.frmOutputSubFolder.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.frmOutputSubFolder.btnOK" NewName="_4dotsFreePDFCompress.frmOutputSubFolder.cb4fdae6c24bd529572d1e81b82eb4003" />
+<Entry OldName="_4dotsFreePDFCompress.frmOutputSubFolder.btnCancel" NewName="_4dotsFreePDFCompress.frmOutputSubFolder.cdf16ab2bb197ab10ec8e15eaf4c31804" />
+<Entry OldName="_4dotsFreePDFCompress.frmOutputSubFolder.label1" NewName="_4dotsFreePDFCompress.frmOutputSubFolder.c003c234b15bdac99f1f91487405613dc" />
+<Entry OldName="_4dotsFreePDFCompress.frmPassword.InputFile" NewName="_4dotsFreePDFCompress.frmPassword.cb2965cc8cfd7ce1c10129407ad615d3a" />
+<Entry OldName="_4dotsFreePDFCompress.frmPassword.components" NewName="_4dotsFreePDFCompress.frmPassword.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.frmPassword.btnOK" NewName="_4dotsFreePDFCompress.frmPassword.cb4fdae6c24bd529572d1e81b82eb4003" />
+<Entry OldName="_4dotsFreePDFCompress.frmPassword.label1" NewName="_4dotsFreePDFCompress.frmPassword.c003c234b15bdac99f1f91487405613dc" />
+<Entry OldName="_4dotsFreePDFCompress.frmPassword.btnCancel" NewName="_4dotsFreePDFCompress.frmPassword.cdf16ab2bb197ab10ec8e15eaf4c31804" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress._Instance" NewName="_4dotsFreePDFCompress.frmProgress.ca9c99c2d12bb8eec04cf890a70ec96ca" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.components" NewName="_4dotsFreePDFCompress.frmProgress.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.label1" NewName="_4dotsFreePDFCompress.frmProgress.c003c234b15bdac99f1f91487405613dc" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.btnCancel" NewName="_4dotsFreePDFCompress.frmProgress.cdf16ab2bb197ab10ec8e15eaf4c31804" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.lblTime" NewName="_4dotsFreePDFCompress.frmProgress.c2e1632e592ca841ecb6741f6a509f1a3" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.OnUninstall" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.c4b777fbc9535e8289e533834691a8aaa" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.components" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.label1" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.c003c234b15bdac99f1f91487405613dc" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.label2" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.c4b4e3f83be732df2f52622d0e8bc5848" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.label3" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.c2baaa54ed1ee8b2a61c6a2afe45671ff" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.btnOK" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.cb4fdae6c24bd529572d1e81b82eb4003" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.btnExit" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.cb598fb73589f4dd7af17fa0ebded39ac" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.txtLike" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.c1dc43469b4222c80332f3830d7e4d880" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.txtBuy" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.ccbf56881a0c2f732434b2d84b9bd0618" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.label4" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.cb55fe12d60c31f324aa3a856f13dd8e3" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.txtEmail" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.c66c05c3b78df54b544add1927c9b617c" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.txtOpinion" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.c478aa035563cfd454687f981d59cd504" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.label5" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.c841ae1a6752093a31756a004065f3182" />
+<Entry OldName="_4dotsFreePDFCompress.ImageComboBox.imageList" NewName="A.ca13e63297eb3aaa3a7f37b399f60f4d7.c71bc9a185a3ad9b4f8672db9b7c0352d" />
+<Entry OldName="_4dotsFreePDFCompress.ComboBoxExItem._text" NewName="A.cc1428305e230b32f7feddf1977207cb1.c9c1f23b38c3f3998b087bf0d753d0a7e" />
+<Entry OldName="_4dotsFreePDFCompress.ComboBoxExItem._imageIndex" NewName="A.cc1428305e230b32f7feddf1977207cb1.c02aae8b6b7276c83bafae425bf3fafe2" />
+<Entry OldName="_4dotsFreePDFCompress.Module.ApplicationName" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.cca0a259da256ef67a8219f71fde1a1cf" />
+<Entry OldName="_4dotsFreePDFCompress.Module.ApplicationName2" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c53226fb51b7fa49f17226a1d46957586" />
+<Entry OldName="_4dotsFreePDFCompress.Module.ApplicationTitle" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c63b36f4d094440fcc0bb5fa606a8b037" />
+<Entry OldName="_4dotsFreePDFCompress.Module.ShortApplicationTitle" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.caefbfd92321fb98e9acdae703e933db3" />
+<Entry OldName="_4dotsFreePDFCompress.Module.DownloadURL" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c27e1c39a885e9dfdef612f4676d3fc0d" />
+<Entry OldName="_4dotsFreePDFCompress.Module.HelpURL" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c069de9b5321dfb1d06fe495ee9e06772" />
+<Entry OldName="_4dotsFreePDFCompress.Module.LangURL" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c4a98f09738638a98963beb68fcc38037" />
+<Entry OldName="_4dotsFreePDFCompress.Module.StoreUrl" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c8f67aa8b755402ea456e2b5d88695f71" />
+<Entry OldName="_4dotsFreePDFCompress.Module.VersionURL" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c21c3b0ba114a8947cadd76c76cdb1f08" />
+<Entry OldName="_4dotsFreePDFCompress.Module.SelectedLanguage" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c4ad58bbe41138a0435df09024b6cc905" />
+<Entry OldName="_4dotsFreePDFCompress.Module.args" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c3c06fa5bfd7bbe052c19a062d19b3e62" />
+<Entry OldName="_4dotsFreePDFCompress.Module.IsCommandLine" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c3e6dcf4bc57c53cd680329a88a6fa5f0" />
+<Entry OldName="_4dotsFreePDFCompress.Module.IsFromWindowsExplorer" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c66ea218eeacedc178903393b8652c084" />
+<Entry OldName="_4dotsFreePDFCompress.Module.UserDocumentsFolder" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.ca563833431b9b56c1fb02887bb588426" />
+<Entry OldName="_4dotsFreePDFCompress.Module.CmdCompress" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c8bd4f50d5f0d188b0971db363b9353c9" />
+<Entry OldName="_4dotsFreePDFCompress.Module.CmdUserPassword" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c8198fcf064664866b6743119c2f38127" />
+<Entry OldName="_4dotsFreePDFCompress.Module.CmdOutputFile" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c156a34108e06d7b744c427f72f6b019c" />
+<Entry OldName="_4dotsFreePDFCompress.Module.CmdOutputFolder" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.cc6609ef2ee999549919c8adba319a4ae" />
+<Entry OldName="_4dotsFreePDFCompress.Module.CmdOverwritePDF" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.ce94b7f90d5f143ffea4a80cf142ac657" />
+<Entry OldName="_4dotsFreePDFCompress.Module.CmdKeepBackup" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.ce657f1be06a43197aa2daf2ab76dc105" />
+<Entry OldName="_4dotsFreePDFCompress.Module.CmdImageQuality" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c243615eba82a28e5ce8f5206357c0d43" />
+<Entry OldName="_4dotsFreePDFCompress.Module.CmdCompressImages" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c9c2f8165306d7b6241a73ef8ccc23b12" />
+<Entry OldName="_4dotsFreePDFCompress.Module.CmdLogFile" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c119416550fe5f32ed936067b3cd18dca" />
+<Entry OldName="_4dotsFreePDFCompress.Module.CmdImportListFile" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.ce81071e89185599a45ac17d35fa069c2" />
+<Entry OldName="_4dotsFreePDFCompress.Module.CmdLogFileWriter" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c5c8fd2170b4c72715516fc5192434c52" />
+<Entry OldName="_4dotsFreePDFCompress.Module.CmdFiles" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c204de65e1eff7d14860b4760d260a437" />
+<Entry OldName="_4dotsFreePDFCompress.Module.DialogFilesFilter" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.cfcdab05c5518c56d16614c8778889a60" />
+<Entry OldName="_4dotsFreePDFCompress.Module._Modex64" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c7714ef19a2f4fc6884641cc946c8d4a8" />
+<Entry OldName="_4dotsFreePDFCompress.NiceLine.components" NewName="_4dotsFreePDFCompress.NiceLine.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.NiceLine._Caption" NewName="_4dotsFreePDFCompress.NiceLine.c0ad65bc274459324c582fd451fd895b9" />
+<Entry OldName="_4dotsFreePDFCompress.NiceLine._CaptionMarginSpace" NewName="_4dotsFreePDFCompress.NiceLine.c130d23a11755124759e64bff0c2faf34" />
+<Entry OldName="_4dotsFreePDFCompress.NiceLine._CaptionPadding" NewName="_4dotsFreePDFCompress.NiceLine.c910601040567d7186ecb6ad1088376b4" />
+<Entry OldName="_4dotsFreePDFCompress.NiceLine._LineVerticalAlign" NewName="_4dotsFreePDFCompress.NiceLine.c057dc72dbb3ff85ab3ec83045aee6826" />
+<Entry OldName="_4dotsFreePDFCompress.NiceLine._CaptionOrizontalAlign" NewName="_4dotsFreePDFCompress.NiceLine.c8b66d8380ba806da968dfc19890a1cc6" />
+<Entry OldName="_4dotsFreePDFCompress.Program.ATTACH_PARENT_PROCESS" NewName="A.c32d14950c7f5db1706df6cd0a846fdf9.ceb1e75f359e69ff948841c610e570abe" />
+<Entry OldName="_4dotsFreePDFCompress.Program.ERROR_ACCESS_DENIED" NewName="A.c32d14950c7f5db1706df6cd0a846fdf9.c84350a6fa0c4b1360414b784b4873ecc" />
+<Entry OldName="_4dotsFreePDFCompress.ucTextProgressBar.WmPaint" NewName="_4dotsFreePDFCompress.ucTextProgressBar.c45f9e2dc454124ac48a2f46fe56a1967" />
+<Entry OldName="_4dotsFreePDFCompress.ucTextProgressBar.components" NewName="_4dotsFreePDFCompress.ucTextProgressBar.c05e215cd16f4ba0312800db61a85d256" />
+<Entry OldName="_4dotsFreePDFCompress.UpdateHelper.bwCheckVersion" NewName="_4dotsFreePDFCompress.UpdateHelper.cae5b8ff05e522f479d82af643cc13b7d" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.resourceMan" NewName="A.ca36aec298b5a472611a55ec4815412d0.c702c2be682ef6fe4a6789e3c0b505878" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.resourceCulture" NewName="A.ca36aec298b5a472611a55ec4815412d0.c945ec8ea4362f85263f97cc331d9d4d5" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.resourceMan" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.c702c2be682ef6fe4a6789e3c0b505878" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.resourceCulture" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.c945ec8ea4362f85263f97cc331d9d4d5" />
+<Entry OldName="_4dotsFreePDFCompress.TranslateHelper.rm" NewName="A.c1497386da1574e3ddeb6f338468bb8c4.c0e845389ed6d67b9305a3de8df0e411b" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.resourceMan" NewName="A.ce3f1819550ee1b56f23ef0968c984505.c702c2be682ef6fe4a6789e3c0b505878" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.resourceCulture" NewName="A.ce3f1819550ee1b56f23ef0968c984505.c945ec8ea4362f85263f97cc331d9d4d5" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;.10AD4DB5F3D8557B12159CE570A84B8F2CF36434AE9E6D6BB027C3D7B3A2B996" NewName="A.c3a0047e87e72f473d6ec93d7684889c4.c5975ee6d6a7ba8cc3d9897b45d389500" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;.39DD69F1362512ECE144B03C7D9F4FB0865DE5BCDCCDB4DE4525241563B787CD" NewName="A.c3a0047e87e72f473d6ec93d7684889c4.c8e6b9d4f837181fb9e0a556add284dfa" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;.84FEC36AA1CEB45579852C751384C213C15B653A38C102598F8B2FC6A2E9B13A" NewName="A.c3a0047e87e72f473d6ec93d7684889c4.cebdc87c35c84a77e4085ac1e45c611b7" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;.8BD7E3D8F8D2D6F513F59C7E98CB9CFF0B2AC7C3CFAF8CEA3A931B32B3E5D5FF" NewName="A.c3a0047e87e72f473d6ec93d7684889c4.c3a28104c1caeb0c6a992ac763bd5d89a" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;.8F3746B7E33B1AD4CBAB50B3397734E2D48A71F12421B748FA09FDECD79C24AA" NewName="A.c3a0047e87e72f473d6ec93d7684889c4.c2dce7c90464412b1cefe846cd1be8016" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;.A9D291DE19A3B25AED0ACFB67CA8ECF4BF519096DF2382B9DC14C3BC77A995AB" NewName="A.c3a0047e87e72f473d6ec93d7684889c4.c5cadfe168d42b9945724f772d8dec610" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;.B5571793400D3B50825AF31DD6D015CEAB2D9A3F99BE24F6B0EF91C730D11472" NewName="A.c3a0047e87e72f473d6ec93d7684889c4.c65d3953a4c1ecb2cad3b1e49de171c0e" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;.D63C62F6707FC29AD5F6C86AF18C94FA38A8C13B873CEE53CAC9CF017013C866" NewName="A.c3a0047e87e72f473d6ec93d7684889c4.c9d549dc1d5b35a8d47a6d840ab310054" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;.D99AD013B9373E19316C47C8A438532FDC729CB0595FC89B22D430C52A4F5345" NewName="A.c3a0047e87e72f473d6ec93d7684889c4.cf0382d2926414a7c260136350a9d796b" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;.E86880013D5D5FE4786C1415B972E85B2EDDE75568ACAC83DFF90069B45387D9" NewName="A.c3a0047e87e72f473d6ec93d7684889c4.c97cd8e5db8384554c1f504cea6d257be" />
+<Entry OldName="_4dotsFreePDFCompress.ArgsHelper..ctor()" NewName="A.cca2306234a12cbf3b8a2adc8258f9fa3..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.ArgsHelper.ExamineArgs(String[] args)" NewName="A.cca2306234a12cbf3b8a2adc8258f9fa3.c926564b6988f08fae1bb2fdc9bb1938e(String[] c3c06fa5bfd7bbe052c19a062d19b3e62)" />
+<Entry OldName="_4dotsFreePDFCompress.ArgsHelper.GetParameter(String arg)" NewName="A.cca2306234a12cbf3b8a2adc8258f9fa3.c58c779eec1316dd12d2c7bfa48713b65(String c7f8b3c2b0ba27a5621f551aa9a422809)" />
+<Entry OldName="_4dotsFreePDFCompress.ArgsHelper.SplitArguments(String commandLine)" NewName="A.cca2306234a12cbf3b8a2adc8258f9fa3.cc83912c21a8beeb584a39ad7c18b4061(String caee061cfd5bbf3574981a2fc6fd1cc22)" />
+<Entry OldName="_4dotsFreePDFCompress.ArgsHelper.ShowCommandUsage()" NewName="A.cca2306234a12cbf3b8a2adc8258f9fa3.cccaf8335db3fb4d4488d314e0b1cf7c7()" />
+<Entry OldName="_4dotsFreePDFCompress.ArgsHelper.GetCommandUsage()" NewName="A.cca2306234a12cbf3b8a2adc8258f9fa3.c160e1f28b4127621e556aa780445e7ba()" />
+<Entry OldName="_4dotsFreePDFCompress.ArgsHelper.get_IsFromWindowsExplorer()" NewName="A.cca2306234a12cbf3b8a2adc8258f9fa3.get_c66ea218eeacedc178903393b8652c084()" />
+<Entry OldName="_4dotsFreePDFCompress.ArgsHelper.get_IsFromCommandLine()" NewName="A.cca2306234a12cbf3b8a2adc8258f9fa3.get_c9e5297d40958c4a4caf50626264fc4bf()" />
+<Entry OldName="_4dotsFreePDFCompress.ArgsHelper.ExecuteCommandLine()" NewName="A.cca2306234a12cbf3b8a2adc8258f9fa3.ce2c7b53d1dd9145ce2ce13e12816bdaf()" />
+<Entry OldName="_4dotsFreePDFCompress.HSL.toRGB(Single rm1, Single rm2, Single rh)" NewName="_4dotsFreePDFCompress.HSL.cbefb2156148149627e6c89f401665154(Single c63e65b9d6a1df2dc469ff31bbd4d5c57, Single c5b8fe36238eddf24053fabd60794d4d3, Single c013d790954f40887ef7154768b5ea551)" />
+<Entry OldName="_4dotsFreePDFCompress.CustomForm.CustomForm_Activated(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.CustomForm.cd265730ddd05792446da484fe040ca07(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.CustomForm.ResizeChildControls(Control co)" NewName="_4dotsFreePDFCompress.CustomForm.c6eeb71dd3a8cd0c90dff13b4f3017ece(Control ccaeac54ab72fc22139931aabd111cee3)" />
+<Entry OldName="_4dotsFreePDFCompress.CustomForm.InitializeComponent()" NewName="_4dotsFreePDFCompress.CustomForm.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.DownloadSuggestionsHelper..ctor()" NewName="A.c240d28525d6b1d0bb86c316447ebf3d7..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.DownloadSuggestionsHelper.SetupDownloadMenuItems(ToolStripMenuItem tsiDownload)" NewName="A.c240d28525d6b1d0bb86c316447ebf3d7.c5d6a0ff460476bbe450726d4c3fc12f5(ToolStripMenuItem c80ef7d3a56bd91a81b11a157c697ea64)" />
+<Entry OldName="_4dotsFreePDFCompress.DownloadSuggestionsHelper.tsi_Click(Object sender, EventArgs e)" NewName="A.c240d28525d6b1d0bb86c316447ebf3d7.c3ac23999ca75f7df5897e273c5056e49(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.ExcelImporter..ctor()" NewName="A.ce065abc4f7dc9a6a7f11283b5770e92f..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.ExcelImporter.ImportListExcel(String filepath)" NewName="A.ce065abc4f7dc9a6a7f11283b5770e92f.c6d96fb7f4ea7df668affefc1bc2c4119(String c1841cbc313fca7b32cadb80f5b44ca40)" />
+<Entry OldName="_4dotsFreePDFCompress.ExcelImporter.GetPart(String part)" NewName="A.ce065abc4f7dc9a6a7f11283b5770e92f.c2c287d03732168ac504bfb65bc56b843(String c68ec1887b231412c5bc875714700d64a)" />
+<Entry OldName="_4dotsFreePDFCompress.frmDownloadUpdate.frmDownloadUpdate_Load(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmDownloadUpdate.cab08db239ec5a5c789a8651e14c5c205(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmDownloadUpdate.client_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)" NewName="_4dotsFreePDFCompress.frmDownloadUpdate.c99a04d183cdd1e944a11ccc144030139(Object cb96fd9c9c3faa6125e44f82ad0c76aba, AsyncCompletedEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmDownloadUpdate.client_DownloadProgressChanged(Object sender, DownloadProgressChangedEventArgs e)" NewName="_4dotsFreePDFCompress.frmDownloadUpdate.c3a204e798a2fc70e6dc3e7ddec3e2e4d(Object cb96fd9c9c3faa6125e44f82ad0c76aba, DownloadProgressChangedEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmDownloadUpdate.btnCancelDownload_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmDownloadUpdate.cfd9e492978d4381004b6ca0b7ecbd675(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmDownloadUpdate.InitializeComponent()" NewName="_4dotsFreePDFCompress.frmDownloadUpdate.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.frmMultipleFiles.btnCancel_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMultipleFiles.c176fa2836c9432ebdb6860baf9945e0c(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMultipleFiles.btnOK_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMultipleFiles.cdd4b47d87ced39c275695d46f2e63624(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMultipleFiles.frmMultipleFiles_Load(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMultipleFiles.ca11a74cc2fbb5f24bdb1a7168696dbf4(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMultipleFiles.frmMultipleFiles_Activated(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMultipleFiles.c18d33bb686203094f87b913b818e88c5(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMultipleFiles.btnBrowse_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMultipleFiles.cd8b5bb32cbf5d8b7b85653dfd251fb20(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMultipleFiles.InitializeComponent()" NewName="_4dotsFreePDFCompress.frmMultipleFiles.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.frmPromotion.picPromotion_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmPromotion.ced1bcc912609ff667251eee313eee926(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmPromotion.VisitWebpage()" NewName="_4dotsFreePDFCompress.frmPromotion.c476019d767257de4486f629dd262d678()" />
+<Entry OldName="_4dotsFreePDFCompress.frmPromotion.lnkPromotion_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="_4dotsFreePDFCompress.frmPromotion.cc32e11c5e4a948229997f244b3c6f760(Object cb96fd9c9c3faa6125e44f82ad0c76aba, LinkLabelLinkClickedEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmPromotion.btnOK_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmPromotion.cdd4b47d87ced39c275695d46f2e63624(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmPromotion.InitializeComponent()" NewName="_4dotsFreePDFCompress.frmPromotion.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.frmResult.btnOK_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmResult.cdd4b47d87ced39c275695d46f2e63624(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmResult.InitializeComponent()" NewName="_4dotsFreePDFCompress.frmResult.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.frmSettings.btnOK_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmSettings.cdd4b47d87ced39c275695d46f2e63624(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmSettings.frmSettings_Load(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmSettings.c8e5972ef7d96b8c64c5efaeb0be9591f(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmSettings.btnCancel_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmSettings.c176fa2836c9432ebdb6860baf9945e0c(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmSettings.InitializeComponent()" NewName="_4dotsFreePDFCompress.frmSettings.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper..ctor()" NewName="A.cf1beede11cc5fa6c281e6576464ed404..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper..cctor()" NewName="A.cf1beede11cc5fa6c281e6576464ed404..cctor()" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.CompressDecompressMultiplePDF(DataTable dt, String OutputDir, Boolean compress_images, Int32 images_quality, Boolean overwrite, Boolean keep_backup)" NewName="A.cf1beede11cc5fa6c281e6576464ed404.cb03c8e21ceb76fb1861c5be4d57f947d(DataTable c115f3dc2014d1fc201fcb120ff540fc6, String ce436a6f39ad54b10cf88881ec7e81d76, Boolean c52603aaf4bd6d7949a4ba239c47613c7, Int32 c811763ad50d4d514f09b5f5ba2840906, Boolean cad405243713106b7449f52509f0a4ad9, Boolean cc587c925d8d7172544238347d4e2bee3)" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.CompressDecompressMultiplePDFCmd(DataTable dt)" NewName="A.cf1beede11cc5fa6c281e6576464ed404.c9c6dec4e7b773d775b30fbf745d138f3(DataTable c115f3dc2014d1fc201fcb120ff540fc6)" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.CompressDecompressSinglePDF(String InputFile, String OutputFile, String Password, Boolean CompressImages, Int32 ImageQuality, Boolean Overwrite, Boolean KeepBackup)" NewName="A.cf1beede11cc5fa6c281e6576464ed404.c37f6455420bc45a74e57ac916143bcaa(String cb2965cc8cfd7ce1c10129407ad615d3a, String c188f4bf7e34f7e30d306529948666da4, String c27b6a251797f7fb7c841037906eed454, Boolean c21907cf0eebfc7cbf0f76a6ca37c43b7, Int32 c787fb6cb320f7b68519b16e0712f7a28, Boolean cd354b0dbd80a84ded9332ae00c201efd, Boolean c60b63fef160511c6ad3a27d3ad050899)" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.ReduceResolution(PdfReader reader, Int64 quality)" NewName="A.cf1beede11cc5fa6c281e6576464ed404.c54cd0e706be26042f7356624ffaed803(PdfReader c75588aecd2da1638d091a27a53623fba, Int64 cf95e3ee008612d1af965a91a4ce7623b)" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.ReduceResolution2(PdfReader reader, Int64 quality)" NewName="A.cf1beede11cc5fa6c281e6576464ed404.cb87a19668e9b35d328e30fd9b86e871f(PdfReader c75588aecd2da1638d091a27a53623fba, Int64 cf95e3ee008612d1af965a91a4ce7623b)" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.InvertImage(Image img)" NewName="A.cf1beede11cc5fa6c281e6576464ed404.c6f97171277c6196bb80b598992438e67(Image cb5224d9730ede1f32989b24648633437)" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.CompressPdf(Byte[] src)" NewName="A.cf1beede11cc5fa6c281e6576464ed404.cdb9eb4bef5081a1fc511ea9c7883a2da(Byte[] c42ce59dd7cfe52560ec6e258bf595ae2)" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper.DecompressPdf(Byte[] src)" NewName="A.cf1beede11cc5fa6c281e6576464ed404.c2c13326c1f8b0b46399a1f4ff080caff(Byte[] c42ce59dd7cfe52560ec6e258bf595ae2)" />
+<Entry OldName="_4dotsFreePDFCompress.ExceptionHandlersHelper..ctor()" NewName="A.c4ea4de099c9ef199bfea18d55684b5f6..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.ExceptionHandlersHelper.AddUnhandledExceptionHandlers()" NewName="A.c4ea4de099c9ef199bfea18d55684b5f6.cde0f0b737186dc4b138aa7f436f22221()" />
+<Entry OldName="_4dotsFreePDFCompress.ExceptionHandlersHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.c4ea4de099c9ef199bfea18d55684b5f6.c168e31b85bbe9e4bdbf80d379b2f265f(Object cb96fd9c9c3faa6125e44f82ad0c76aba, UnhandledExceptionEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.ExceptionHandlersHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.c4ea4de099c9ef199bfea18d55684b5f6.c524e9c55556bae46851a42278e69c13f(Object cb96fd9c9c3faa6125e44f82ad0c76aba, ThreadExceptionEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmAbout.cf02cd74b9d89ccd716fdecc91aab607c(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmAbout.c29999c1d7dc113c5bf53423bc1f541ac(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmAbout.lblAdeia_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmAbout.c57079589ca43cc3c82efa1e5a0adbb44(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmAbout.InitializeComponent()" NewName="_4dotsFreePDFCompress.frmAbout.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.frmLanguage.btnOK_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmLanguage.cdd4b47d87ced39c275695d46f2e63624(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmLanguage.frmLanguage_Load(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmLanguage.c13fbe050e77803bd24f988d66c271ab2(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmLanguage.InitializeComponent()" NewName="_4dotsFreePDFCompress.frmLanguage.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.button1_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c36a35cbe57578c7f4ed3cd1a2599e3dd(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.AddVisual(String[] argsvisual)" NewName="_4dotsFreePDFCompress.frmMain.c1b3aee252cf6481d06dec63b8cf97273(String[] cb6b01ea6eadfd757451e017ab58e294d)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.SetupOutputFolders()" NewName="_4dotsFreePDFCompress.frmMain.c16ba9560025732e79bd6f67c47de37ff()" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.SetupOnLoad()" NewName="_4dotsFreePDFCompress.frmMain.c338a5351bc6738490b9fa77307c2f4b2()" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.AdjustSizeLocation()" NewName="_4dotsFreePDFCompress.frmMain.c11223a75136879d6e999afca3a241f49()" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.SaveSizeLocation()" NewName="_4dotsFreePDFCompress.frmMain.cc1be1d8970d29900deb506675cabe4ac()" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cf5969dc38c7138f7c17e4d2f5707ddca(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.AddLanguageMenuItems()" NewName="_4dotsFreePDFCompress.frmMain.c7309a1935226a3758f24fabd1dfa74a6()" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tiLang_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c7d4db73c13b241955f5d013f28fd3c2c(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.ChangeLanguage(String language_code)" NewName="_4dotsFreePDFCompress.frmMain.cf4adf8c0ffe130666dcb263e9119b543(String c59cc7d4c032a30c0dc75efbc7cd909e5)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cb3990253fea2656ca0efe0319c865b2f(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c20f5b53dbec510caac9f17f4f4b1de39(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.btnAddFiles_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c43fdbad8c3cfbbaf61aa24b5569d13fb(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.btnAddFolder_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c263e1b864b6ba30985bd1168e10f1777(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.btnRemoveFile_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c503045eccc461cd42d27a19578ab9a8f(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tiHelpFeedback_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c89d80a59193267656aaf8a9eedf332f9(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.openToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.ca61cd1412539b1ac533b166546a867bf(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.buyNowToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cfe20795840f66a3e5a50c7113352eab5(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.helpGuideToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.ca55c7c874e1715f36eb28159868594c1(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.btnClearMerge_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cf96ece8ebb20cdf95070f21004d38a14(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.CompressDecompressPDF(Boolean compress)" NewName="_4dotsFreePDFCompress.frmMain.c43f24512ca9eab8d5065ca967d4b01ca(Boolean ca5780756cc39440a3a6b42361d2f09cc)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.btnCompressPDF_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cf94034198fb3500a0c5cfd012ab6d952(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.frmMain_Resize(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cd5ba0acc333651e5748604e40a640342(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.dgFiles_DragDrop(Object sender, DragEventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c48b6fda98be98941fec05ee47c21b467(Object cb96fd9c9c3faa6125e44f82ad0c76aba, DragEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.dgFiles_DragEnter(Object sender, DragEventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cc170db17f40f9115730cb0485d26652f(Object cb96fd9c9c3faa6125e44f82ad0c76aba, DragEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.dgFiles_DragOver(Object sender, DragEventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cd937308a880a6239207263b2d34f91df(Object cb96fd9c9c3faa6125e44f82ad0c76aba, DragEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c57c43ff65c6ccb41b58f048073de231c(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.btnOpenFolder_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cef6cc98622c9bc442f031b1930c2e292(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.btnChangeFolder_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c311906200fab460f8ac0453e7b8d3e63(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.backgroundWorker1_DoWork(Object sender, DoWorkEventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c69215ee2f4914360914c1211322306ad(Object cb96fd9c9c3faa6125e44f82ad0c76aba, DoWorkEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.frmMain_FormClosing(Object sender, FormClosingEventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cfea1603f40542faf440489a37a12dacc(Object cb96fd9c9c3faa6125e44f82ad0c76aba, FormClosingEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.cmbOutputDir_SelectedIndexChanged(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cfca9a56563b96c0aa22a119ef2d9c974(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.exploreToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c1e09e8d79214fec15101fd18050ef653(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.contextMenuStrip1_Opening(Object sender, CancelEventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c0c89215657c03c04a6d5e33f55c9945d(Object cb96fd9c9c3faa6125e44f82ad0c76aba, CancelEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.followUsOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c279211d345e9cd0482a1fb1f62bb4e74(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsbDecompress_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c261ad546009ed43fd199cae626e9ab11(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.txtImageQuality_KeyPress(Object sender, KeyPressEventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c0fede71ae78a7c7b851e84837a8dc661(Object cb96fd9c9c3faa6125e44f82ad0c76aba, KeyPressEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tbQuality_ValueChanged(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c24f13534d8106d9e2eb2676c800e5ecd(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.nudQuality_ValueChanged(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.caf8c9be17f9ddb3e07e89c2af607cba2(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.chkImages_CheckedChanged(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c5e58577ca6b706a58e231b59f7c0a654(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsbImportList_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c571a41297ae64cd1dfa723c8d1a429a6(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.bwCompress_DoWork(Object sender, DoWorkEventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c0a63be0017631067dfbd3794a7cc438e(Object cb96fd9c9c3faa6125e44f82ad0c76aba, DoWorkEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.bwCompress_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c7aac8f98ce561b102d63d73de30be419(Object cb96fd9c9c3faa6125e44f82ad0c76aba, ProgressChangedEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.bwCompress_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.ceda448e24e2d01a9e32e53f820eb0f87(Object cb96fd9c9c3faa6125e44f82ad0c76aba, RunWorkerCompletedEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsiFacebook_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c5ac25e31cc354ed763b9d1feba3d6d6d(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsiTwitter_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c59feb07a88055be5a082727b802650d3(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsiGooglePlus_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c63098a5f97846f6d56c1c8e068060682(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsiLinkedIn_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c90e89d2df1685a6d47dc9f40a56cd327(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsiEmail_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c21ed176536a78f675bde752428020942(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.EnableDisableForm(Boolean enable)" NewName="_4dotsFreePDFCompress.frmMain.c34d052e61fb960845dc0a7c847f2750f(Boolean c0160d907220acb3560e24dd596ca150d)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsdbAddFile_ButtonClick(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c4d03fa323541401d0564d64400064830(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsdbAddFile_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c94ae20db832006659fa34a9ba8472b8b(Object cb96fd9c9c3faa6125e44f82ad0c76aba, ToolStripItemClickedEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsdbAddFolder_ButtonClick(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c030edcdac5566340380b38306df48049(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsdbAddFolder_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c2839b88b180308b6b63fb95846b5f2cb(Object cb96fd9c9c3faa6125e44f82ad0c76aba, ToolStripItemClickedEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsdbImportList_ButtonClick(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.ca82bb579b54e3521a49dfbd2e17896f0(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tsdbImportList_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c07dc5a7c1fbffc0d7239d72c6602b382(Object cb96fd9c9c3faa6125e44f82ad0c76aba, ToolStripItemClickedEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.keepFolderStructureToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cd037e30e9ea4368862d60aac0d6cf14b(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.luminatiHelperToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c81a0bf550663e165e9932a3aea7a2f12(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.doNotAskForPasswordToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cd260a786e0eba04dbed838c02d3031dd(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.enterFileListToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cc65a524381a786b5d51f60d74a60849b(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.saveFileListToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cba2a0b073c27d962392f80dab527d4a4(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.clearToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cc04947943d3a5891a28b24d8aeea3040(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.selectAllToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cf0cd5115051f2aed3c8cc608cd65da1d(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.selectNoneToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cc37efe72b59707e202f49ff4f01d1646(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.invertSelectionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c44b15d91662c1660af798835e84a2a60(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.importFromExcelFileToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.cb10c4138be5913251d56ec7d9ebeda80(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.youtubeChannelToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.ce89cbdac32f76a8f848ef359aeb5e229(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.donateViaPaypalToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.ca8f27f43545bac86469b3b61c207c309(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.tryOnlineVersionAtOnlinepdfappscomToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.ce9fab2d23dd7e8c97e173fa8367309cb(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.commandLineArgumentsToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMain.c99c0b1bb4ecb3f5030df8b9bbd8d78da(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMain.InitializeComponent()" NewName="_4dotsFreePDFCompress.frmMain.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.frmMessage.btnOK_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMessage.cdd4b47d87ced39c275695d46f2e63624(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMessage.frmMessage_Load(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMessage.c51ef6bc08b00df489a8dd035ee465cda(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMessage.btnCopy_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmMessage.caf328a5fa7d7e29ffb7d73bb6f1f252b(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmMessage.InitializeComponent()" NewName="_4dotsFreePDFCompress.frmMessage.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.frmOutputSubFolder.btnCancel_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmOutputSubFolder.c176fa2836c9432ebdb6860baf9945e0c(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmOutputSubFolder.btnOK_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmOutputSubFolder.cdd4b47d87ced39c275695d46f2e63624(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmOutputSubFolder.frmOutputSubFolder_Load(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmOutputSubFolder.c804ac6cfad0b44d24dd1de1c9b7f53ca(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmOutputSubFolder.InitializeComponent()" NewName="_4dotsFreePDFCompress.frmOutputSubFolder.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.frmPassword.btnCancel_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmPassword.c176fa2836c9432ebdb6860baf9945e0c(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmPassword.btnOK_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmPassword.cdd4b47d87ced39c275695d46f2e63624(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmPassword.frmPassword_Load(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmPassword.cc5237311456c004378b9ce08d5f1f879(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmPassword.InitializeComponent()" NewName="_4dotsFreePDFCompress.frmPassword.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.btnCancel_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmProgress.c176fa2836c9432ebdb6860baf9945e0c(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.timTime_Tick(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmProgress.c9322374f057304fdb5d49bd64fa512c4(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.frmProgress_Activated(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmProgress.c533c4718c18f826943b2b701a23745a2(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.InitializeComponent()" NewName="_4dotsFreePDFCompress.frmProgress.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.btnExit_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.cecdc3f80c1672d3912dbf12ac530d8d4(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.btnOK_Click(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.cdd4b47d87ced39c275695d46f2e63624(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.frmUninstallQuestionnaire_Load(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.cd3b3214c5c41337465b43cf584987f2b(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.txtOpinion_TextChanged(Object sender, EventArgs e)" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.ccef65401e67df8f5f9d355a48ac1906f(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.InitializeComponent()" NewName="_4dotsFreePDFCompress.frmUninstallQuestionnaire.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.ImageComboBox..ctor()" NewName="A.ca13e63297eb3aaa3a7f37b399f60f4d7..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.ImageComboBox.get_ImageList()" NewName="A.ca13e63297eb3aaa3a7f37b399f60f4d7.get_cfbc189831f44749b0239e36eb0ef88d5()" />
+<Entry OldName="_4dotsFreePDFCompress.ImageComboBox.set_ImageList(ImageList value)" NewName="A.ca13e63297eb3aaa3a7f37b399f60f4d7.set_cfbc189831f44749b0239e36eb0ef88d5(ImageList c4a99b3e6cfe97e0054c5c5d426cd84de)" />
+<Entry OldName="_4dotsFreePDFCompress.ImageComboBox.OnDrawItem(DrawItemEventArgs ea)" NewName="A.ca13e63297eb3aaa3a7f37b399f60f4d7.OnDrawItem(DrawItemEventArgs ea)" />
+<Entry OldName="_4dotsFreePDFCompress.ComboBoxExItem..ctor()" NewName="A.cc1428305e230b32f7feddf1977207cb1..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.ComboBoxExItem..ctor(String text)" NewName="A.cc1428305e230b32f7feddf1977207cb1..ctor(String c59723d4d6bba1f0adf55cf9698f70d6d)" />
+<Entry OldName="_4dotsFreePDFCompress.ComboBoxExItem..ctor(String text, Int32 imageIndex)" NewName="A.cc1428305e230b32f7feddf1977207cb1..ctor(String c59723d4d6bba1f0adf55cf9698f70d6d, Int32 ce449ee0499ff3c3a809bbbe6ca2a86dc)" />
+<Entry OldName="_4dotsFreePDFCompress.ComboBoxExItem.get_Text()" NewName="A.cc1428305e230b32f7feddf1977207cb1.get_c1e0fafe3efd77ca8bd0507e1787778f1()" />
+<Entry OldName="_4dotsFreePDFCompress.ComboBoxExItem.set_Text(String value)" NewName="A.cc1428305e230b32f7feddf1977207cb1.set_c1e0fafe3efd77ca8bd0507e1787778f1(String c4a99b3e6cfe97e0054c5c5d426cd84de)" />
+<Entry OldName="_4dotsFreePDFCompress.ComboBoxExItem.get_ImageIndex()" NewName="A.cc1428305e230b32f7feddf1977207cb1.get_c64eb591efc2027e57553a53470de4aa8()" />
+<Entry OldName="_4dotsFreePDFCompress.ComboBoxExItem.set_ImageIndex(Int32 value)" NewName="A.cc1428305e230b32f7feddf1977207cb1.set_c64eb591efc2027e57553a53470de4aa8(Int32 c4a99b3e6cfe97e0054c5c5d426cd84de)" />
+<Entry OldName="_4dotsFreePDFCompress.ComboBoxExItem.ToString()" NewName="A.cc1428305e230b32f7feddf1977207cb1.ToString()" />
+<Entry OldName="_4dotsFreePDFCompress.MessageHelper.RegisterWindowMessage(String lpString)" NewName="_4dotsFreePDFCompress.MessageHelper.cdda2b564e72c0dae50d32b1143146706(String c81cbbc7bde76a68051203a48c6c5db39)" />
+<Entry OldName="_4dotsFreePDFCompress.Module..ctor()" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.Module..cctor()" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a..cctor()" />
+<Entry OldName="_4dotsFreePDFCompress.Module.SHParseDisplayName(String pszName, IntPtr pbc, IntPtr&amp; ppidl, UInt32 sfgaoIn, UInt32&amp; psfgaoOut)" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c0484a93e62e0c22ed26cbda473015df2(String c3cd4e84fd04ea3cf473c6db036057c0e, IntPtr c4bee929d248efa7d0e97b8b118d4003a, IntPtr&amp; ccd8a98dd9d03a84fa69af2546dbebdec, UInt32 c8747fdd9cc2b7d2dab4a234c823e2d01, UInt32&amp; c3299b7cdbc9030ab9120e3500af02324)" />
+<Entry OldName="_4dotsFreePDFCompress.Module.SHOpenFolderAndSelectItems(IntPtr pidlFolder, UInt32 cidl, IntPtr[] apidl, UInt32 dwFlags)" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.cd79378c616c83fb9c283dda77341c57e(IntPtr cd64223416a7dacf43f5c16872e112b81, UInt32 ce1d02b14999e85778cb735f88f0c7b00, IntPtr[] c14517b0f8e9959fe572a8641ab2c382b, UInt32 c0af547ed5eef041ccaf681984969af7c)" />
+<Entry OldName="_4dotsFreePDFCompress.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.cafd633e1dedebff5296df879197cb6b9(IntPtr c7c8c46f56ada202f64930d00732529ed, Int32 c7a191e37e7ecc6057101f6b7c6ad4c92, Int32 cfd4ed1cb3202bfdb975f824770b02f58, Int32 c7389ffc107f4a94ab0374cc0fdc66598)" />
+<Entry OldName="_4dotsFreePDFCompress.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c61eb9877d5698bd007de9da6bf32da11(IntPtr c71c04a2d18b3b27c41a0fece0d0656d1)" />
+<Entry OldName="_4dotsFreePDFCompress.Module.GetRelativePath(String mainDirPath, String absoluteFilePath)" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c441f1f6088250256a77d7ea6ea85dcad(String c816cd1eb3db8a566665dfa46f72d5243, String c01cf2c58cd25ceff0c0de2739a2b4921)" />
+<Entry OldName="_4dotsFreePDFCompress.Module.ShowMessage(String msg)" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c13203aa3b08ebe6b0e66529bdb7072ca(String c039a26881e9989c625a1489469724d61)" />
+<Entry OldName="_4dotsFreePDFCompress.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c1fb5166205201a08c0a3df4f622f93e2(String c039a26881e9989c625a1489469724d61, String c3dd4019735ecf0a2a11f1cc2273d3e1d)" />
+<Entry OldName="_4dotsFreePDFCompress.Module.ShowError(Exception ex)" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c308dc09b7e6a89b65f9b80c0d8fa9f3f(Exception c02a25f943c7e37daed51852655e6ea9a)" />
+<Entry OldName="_4dotsFreePDFCompress.Module.ShowError(String msg)" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c308dc09b7e6a89b65f9b80c0d8fa9f3f(String c039a26881e9989c625a1489469724d61)" />
+<Entry OldName="_4dotsFreePDFCompress.Module.ShowError(String msg, Exception ex)" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c308dc09b7e6a89b65f9b80c0d8fa9f3f(String c039a26881e9989c625a1489469724d61, Exception c02a25f943c7e37daed51852655e6ea9a)" />
+<Entry OldName="_4dotsFreePDFCompress.Module.ShowError(String msg, String exstr)" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c308dc09b7e6a89b65f9b80c0d8fa9f3f(String c039a26881e9989c625a1489469724d61, String c0d8603516beaccedb06022964bd4d428)" />
+<Entry OldName="_4dotsFreePDFCompress.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.cbffec6fe1f8dd0c66cb31fe0923b77ad(String c039a26881e9989c625a1489469724d61, String c3dd4019735ecf0a2a11f1cc2273d3e1d)" />
+<Entry OldName="_4dotsFreePDFCompress.Module.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c3f0f82e2f464db768bb92b1feac79719(Object cb96fd9c9c3faa6125e44f82ad0c76aba, EventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.Module.get_Modex64()" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.get_cf2a0234c23409194c35c8a0c0b6ec52a()" />
+<Entry OldName="_4dotsFreePDFCompress.Module.get_CmdAddSubdirectories()" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.get_c8702771cb8f465e671ae7b31c76c426c()" />
+<Entry OldName="_4dotsFreePDFCompress.Module.IsLegalFilename(String name)" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.c522cbd0b938d83733aaa377ee8cb5352(String c71a46bff258b10d8042258f0a60959b6)" />
+<Entry OldName="_4dotsFreePDFCompress.Module.DeleteApplicationSettingsFile()" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a.ce1f91cd07b5c20eb5c00eaa05e746e8a()" />
+<Entry OldName="_4dotsFreePDFCompress.NiceLine.InitializeComponent()" NewName="_4dotsFreePDFCompress.NiceLine.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.OutputFolderHelper..ctor()" NewName="A.cd619d46f56a09bfc4cb471beeb89c7ef..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.OutputFolderHelper.SaveOutputFolder(String folder)" NewName="A.cd619d46f56a09bfc4cb471beeb89c7ef.c6f92290a7bd4534e5c749fbe4ff6e063(String c32d16131205b5f3955b19af486d6e5e5)" />
+<Entry OldName="_4dotsFreePDFCompress.OutputFolderHelper.LoadOutputFolders()" NewName="A.cd619d46f56a09bfc4cb471beeb89c7ef.ce09111bf6a74820b7d1128156fa1043d()" />
+<Entry OldName="_4dotsFreePDFCompress.Program.FreeConsole()" NewName="A.c32d14950c7f5db1706df6cd0a846fdf9.caf44baae6bfa1b01fc33d0bc2cfffde2()" />
+<Entry OldName="_4dotsFreePDFCompress.Program.AttachConsole(Int32 dwProcessId)" NewName="A.c32d14950c7f5db1706df6cd0a846fdf9.c400ac75c682734ef81ac025d212385dc(Int32 c2b7a8d66261245230d66a3500b299659)" />
+<Entry OldName="_4dotsFreePDFCompress.Program.AllocConsole()" NewName="A.c32d14950c7f5db1706df6cd0a846fdf9.ca1fd0e9e11a2d923b6cbae8c2be6c04e()" />
+<Entry OldName="_4dotsFreePDFCompress.Program.Main(String[] args)" NewName="A.c32d14950c7f5db1706df6cd0a846fdf9.c4aee091df89f1d81c15dbf6183a84999(String[] c3c06fa5bfd7bbe052c19a062d19b3e62)" />
+<Entry OldName="_4dotsFreePDFCompress.Program.InitRegistryLuminati()" NewName="A.c32d14950c7f5db1706df6cd0a846fdf9.cd07bbb7147dac6a40caa537868471579()" />
+<Entry OldName="_4dotsFreePDFCompress.RecentFilesHelper..ctor()" NewName="A.c0b983d3964d757be32b3f8c1250fb300..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.RecentFilesHelper.FillMenuRecentFile()" NewName="A.c0b983d3964d757be32b3f8c1250fb300.c460e51cb428c29c702b8c4356d1eac54()" />
+<Entry OldName="_4dotsFreePDFCompress.RecentFilesHelper.FillMenuRecentFolder()" NewName="A.c0b983d3964d757be32b3f8c1250fb300.cae8f25042a50631c058dc86f762e47dc()" />
+<Entry OldName="_4dotsFreePDFCompress.RecentFilesHelper.FillMenuRecentImportList()" NewName="A.c0b983d3964d757be32b3f8c1250fb300.c3112bfd5f729d78ad4e8b1447d429f6a()" />
+<Entry OldName="_4dotsFreePDFCompress.RecentFilesHelper.AddRecentFile(String filepath)" NewName="A.c0b983d3964d757be32b3f8c1250fb300.c609d8af6383ae8ac04f31c9756c30d07(String c1841cbc313fca7b32cadb80f5b44ca40)" />
+<Entry OldName="_4dotsFreePDFCompress.RecentFilesHelper.ImportListRecent(String filepath)" NewName="A.c0b983d3964d757be32b3f8c1250fb300.c8405fc9be194af64c5abcee6ad2e2207(String c1841cbc313fca7b32cadb80f5b44ca40)" />
+<Entry OldName="_4dotsFreePDFCompress.RecentFilesHelper.AddRecentFolder(String filepath)" NewName="A.c0b983d3964d757be32b3f8c1250fb300.c7a9e9f58e38cf4fb4848f9ab38e9c2bb(String c1841cbc313fca7b32cadb80f5b44ca40)" />
+<Entry OldName="_4dotsFreePDFCompress.RecentFilesHelper.ArrayToListString(String[] str)" NewName="A.c0b983d3964d757be32b3f8c1250fb300.c3fef7110b9391859b0f801f88ef62fd4(String[] cee6f460825ea622459756b6d098fdf90)" />
+<Entry OldName="_4dotsFreePDFCompress.RegistryHelper2..ctor()" NewName="A.c7e8264d42e0c97d32542eeee7c55094d..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.RegistryHelper2.GetKeyValue(String AppRegKey, String keystr)" NewName="A.c7e8264d42e0c97d32542eeee7c55094d.c156648ad23116eea63cf9aeeaa068fa0(String c50bedd0abff6f07866b204a93eb6fbee, String ced740d71d835f30cfb282015be4fe792)" />
+<Entry OldName="_4dotsFreePDFCompress.RegistryHelper2.SetKeyValue(String AppRegKey, String keystr, String keyvalue)" NewName="A.c7e8264d42e0c97d32542eeee7c55094d.cf0ac90089e38475660b40ef538621894(String c50bedd0abff6f07866b204a93eb6fbee, String ced740d71d835f30cfb282015be4fe792, String ca148ecde843e4169cc3662ad59fbd89f)" />
+<Entry OldName="_4dotsFreePDFCompress.ShareHelper..ctor()" NewName="A.ce9c27eca87311e9ba63e8e0f22191b2e..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.ShareHelper.get_ShareURL()" NewName="A.ce9c27eca87311e9ba63e8e0f22191b2e.get_c8d6de906bfb65ba75f794a7e700e5fec()" />
+<Entry OldName="_4dotsFreePDFCompress.ShareHelper.get_ShareText()" NewName="A.ce9c27eca87311e9ba63e8e0f22191b2e.get_c75331b3d0f235fc2d90f77410065bb56()" />
+<Entry OldName="_4dotsFreePDFCompress.ShareHelper.ShareFacebook()" NewName="A.ce9c27eca87311e9ba63e8e0f22191b2e.c27aaefa1f4a57d0f96ed077be3d70720()" />
+<Entry OldName="_4dotsFreePDFCompress.ShareHelper.ShareTwitter()" NewName="A.ce9c27eca87311e9ba63e8e0f22191b2e.ca991699b03c78547eee1de2336e0004e()" />
+<Entry OldName="_4dotsFreePDFCompress.ShareHelper.ShareGooglePlus()" NewName="A.ce9c27eca87311e9ba63e8e0f22191b2e.c24e0eed60b080e0df4aeefbd8e58edcf()" />
+<Entry OldName="_4dotsFreePDFCompress.ShareHelper.ShareLinkedIn()" NewName="A.ce9c27eca87311e9ba63e8e0f22191b2e.ccc1c4ba57eb1c6ce81f0c447c17b3946()" />
+<Entry OldName="_4dotsFreePDFCompress.ShareHelper.ShareEmail()" NewName="A.ce9c27eca87311e9ba63e8e0f22191b2e.cf7d5ce07cc81abddb758562194eb5f39()" />
+<Entry OldName="_4dotsFreePDFCompress.ucTextProgressBar.InitializeComponent()" NewName="_4dotsFreePDFCompress.ucTextProgressBar.c897738bcfdfde05099bcdecd7349b181()" />
+<Entry OldName="_4dotsFreePDFCompress.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="_4dotsFreePDFCompress.UpdateHelper.c353a4405bff955dceadab03031ddebc9(Object cb96fd9c9c3faa6125e44f82ad0c76aba, ProgressChangedEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="_4dotsFreePDFCompress.UpdateHelper.c64626318ff6374d899f6aef8e0476054(Object cb96fd9c9c3faa6125e44f82ad0c76aba, RunWorkerCompletedEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="_4dotsFreePDFCompress.UpdateHelper.cf4a8b68fd4e634c009df2f766212bbef(Object cb96fd9c9c3faa6125e44f82ad0c76aba, DoWorkEventArgs ccec69afcb300526244dc97cc4b5b2ccf)" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags..ctor()" NewName="A.ca36aec298b5a472611a55ec4815412d0..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_ResourceManager()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_ResourceManager()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_Culture()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_Culture()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.set_Culture(CultureInfo value)" NewName="A.ca36aec298b5a472611a55ec4815412d0.set_Culture(CultureInfo value)" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_belarus()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_belarus()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_china()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_china()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_croatia()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_croatia()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_czech_republic()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_czech_republic()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_denmark()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_denmark()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_estonia()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_estonia()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_finland()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_finland()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_france()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_france()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_georgia()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_georgia()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_germany()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_germany()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_great_britain()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_great_britain()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_greece()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_greece()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_hungary()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_hungary()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_iceland()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_iceland()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_india()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_india()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_indonesia()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_indonesia()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_iran()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_iran()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_israel()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_israel()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_italy()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_italy()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_japan()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_japan()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_latvia()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_latvia()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_lithuania()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_lithuania()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_netherlands()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_netherlands()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_norway()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_norway()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_poland()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_poland()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_portugal()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_portugal()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_romania()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_romania()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_russia()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_russia()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_saudi_arabia()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_saudi_arabia()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_slovakia()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_slovakia()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_slovenia()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_slovenia()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_south_korea()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_south_korea()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_spain()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_spain()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_sweden()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_sweden()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_thailand()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_thailand()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_turkey()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_turkey()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_ukraine()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_ukraine()" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags.get_flag_vietnam()" NewName="A.ca36aec298b5a472611a55ec4815412d0.get_flag_vietnam()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate..ctor()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_ResourceManager()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_ResourceManager()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Culture()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Culture()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.set_Culture(CultureInfo value)" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.set_Culture(CultureInfo value)" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_A_new_version_has_been_released__Press_the_OK_button_to_download_the_new_version()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_A_new_version_has_been_released__Press_the_OK_button_to_download_the_new_version()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_A_new_version_has_been_released__Would_you_like_to_download_it_now__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_A_new_version_has_been_released__Would_you_like_to_download_it_now__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Add_Subdirectories__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Add_Subdirectories__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_An_error_occured__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_An_error_occured__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_An_error_occured___n()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_An_error_occured___n()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_An_error_occured_while_protecting_PDF_File()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_An_error_occured_while_protecting_PDF_File()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Change_PDF_Properties()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Change_PDF_Properties()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Compress___Decompress_PDF()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Compress___Decompress_PDF()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Creation_Date_and_Time()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Creation_Date_and_Time()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Current_Custom_Date()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Current_Custom_Date()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Current_Date()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Current_Date()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Current_Date_and_Time()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Current_Date_and_Time()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Current_Day__DD_()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Current_Day__DD_()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Current_Hour__HH_()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Current_Hour__HH_()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Current_Minute__MI_()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Current_Minute__MI_()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Current_Month__MM_()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Current_Month__MM_()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Current_Second__SS_()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Current_Second__SS_()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Current_Time()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Current_Time()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Current_Year__YYYY_()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Current_Year__YYYY_()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Directory_Name()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Directory_Name()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Directory_Path()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Directory_Path()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Download()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Download()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Download_new_version__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Download_new_version__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Encrypt_PDF()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Encrypt_PDF()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Error()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Error()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Error__Could_not_Create_Directory_for_File()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Error__Could_not_Create_Directory_for_File()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Error__Could_not_send_Questionnaire__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Error__Could_not_send_Questionnaire__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Error__Wrong_User_Password_for_File()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Error__Wrong_User_Password_for_File()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Error_Could_not_change_Language__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Error_Could_not_change_Language__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Error_could_not_parse_Arguments__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Error_could_not_parse_Arguments__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Filename()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Filename()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Filename_Without_Extension()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Filename_Without_Extension()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Full_File_Path()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Full_File_Path()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_I_did_find_a_free_application_to_compress_PDF_files__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_I_did_find_a_free_application_to_compress_PDF_files__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Is_From_Windows_Explorer()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Is_From_Windows_Explorer()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Last_Access_Date_and_Time()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Last_Access_Date_and_Time()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Last_Write_Date_and_Time()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Last_Write_Date_and_Time()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Operation_Cancelled__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Operation_Cancelled__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Operation_completed_successfully__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Operation_completed_successfully__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Operation_completed_with_Errors__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Operation_completed_with_Errors__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Overwrite_PDF_Document()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Overwrite_PDF_Document()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Please_add_a_PDF_File_first__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Please_add_a_PDF_File_first__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Please_add_only_PDF_Files__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Please_add_only_PDF_Files__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Please_add_PDF_Files_first__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Please_add_PDF_Files_first__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Please_enter_a_Subfolder_Name__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Please_enter_a_Subfolder_Name__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Please_enter_a_valid_Subfolder_Name__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Please_enter_a_valid_Subfolder_Name__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Please_enter_the_correct_User_Password__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Please_enter_the_correct_User_Password__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Please_fill_out_the_Questionnaire__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Please_fill_out_the_Questionnaire__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Please_insert_a_Custom_Metadata_Property_Name__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Please_insert_a_Custom_Metadata_Property_Name__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Please_insert_a_valid_Password__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Please_insert_a_valid_Password__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Please_specify_an_existing_output_folder__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Please_specify_an_existing_output_folder__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Please_specify_another_option_as_the_Output_Folder__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Please_specify_another_option_as_the_Output_Folder__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Please_specify_PDF_Files_to_Compress_or_Decompress__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Please_specify_PDF_Files_to_Compress_or_Decompress__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Same_Folder_of_PDF_Document()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Same_Folder_of_PDF_Document()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Subfolder()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Subfolder()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Subfolder_of_PDF_Document()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Subfolder_of_PDF_Document()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_This_is_the_latest_version__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_This_is_the_latest_version__()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Unspecified_Error()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Unspecified_Error()" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate.get_Would_you_like_to_add_also_Subdirectories__()" NewName="A.cd7eea1d117c5548d4e592bfae29f997a.get_Would_you_like_to_add_also_Subdirectories__()" />
+<Entry OldName="_4dotsFreePDFCompress.TranslateHelper..ctor()" NewName="A.c1497386da1574e3ddeb6f338468bb8c4..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.TranslateHelper..cctor()" NewName="A.c1497386da1574e3ddeb6f338468bb8c4..cctor()" />
+<Entry OldName="_4dotsFreePDFCompress.TranslateHelper.Translate(String str)" NewName="A.c1497386da1574e3ddeb6f338468bb8c4.cf84d8ee52ca41fbe4b43d2de0c86f7bf(String cee6f460825ea622459756b6d098fdf90)" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources..ctor()" NewName="A.ce3f1819550ee1b56f23ef0968c984505..ctor()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_ResourceManager()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_ResourceManager()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_Culture()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_Culture()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.ce3f1819550ee1b56f23ef0968c984505.set_Culture(CultureInfo value)" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get__4dots_logo_official()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get__4dots_logo_official()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get__lock()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get__lock()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_about()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_about()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_add()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_add()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_add1()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_add1()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_add2()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_add2()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_arrow_right_blue()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_arrow_right_blue()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_brush2()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_brush2()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_brush4()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_brush4()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_check()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_check()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_copy()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_copy()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_delete()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_delete()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_delete1()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_delete1()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_document_info()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_document_info()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_document_info1()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_document_info1()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_edit()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_edit()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_exit()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_exit()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_facebook_24()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_facebook_24()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_flash()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_flash()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_folder()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_folder()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_folder_add()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_folder_add()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_folder_add1()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_folder_add1()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_folder1()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_folder1()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_googleplus_24()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_googleplus_24()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_help2()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_help2()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_import1()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_import1()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_information()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_information()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_information1()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_information1()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_linkedin_24()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_linkedin_24()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_lock24()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_lock24()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_mail()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_mail()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_onlinepdfapps_com_main_screen_700_373()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_onlinepdfapps_com_main_screen_700_373()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_package()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_package()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_package1()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_package1()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_paypal_donate()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_paypal_donate()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_pdf_compress_48()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_pdf_compress_48()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_social_twitter_box_white_icon_24()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_social_twitter_box_white_icon_24()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_splitbyte_32()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_splitbyte_32()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_twitter_24()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_twitter_24()" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources.get_youtube_32()" NewName="A.ce3f1819550ee1b56f23ef0968c984505.get_youtube_32()" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.HideFormDelegate..ctor(Object object, IntPtr method)" NewName="_4dotsFreePDFCompress.frmProgress.cdc5367055e2ee1345f9ba3837d21a1e0..ctor(Object object, IntPtr method)" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.HideFormDelegate.Invoke()" NewName="_4dotsFreePDFCompress.frmProgress.cdc5367055e2ee1345f9ba3837d21a1e0.Invoke()" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.HideFormDelegate.BeginInvoke(AsyncCallback callback, Object object)" NewName="_4dotsFreePDFCompress.frmProgress.cdc5367055e2ee1345f9ba3837d21a1e0.BeginInvoke(AsyncCallback callback, Object object)" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.HideFormDelegate.EndInvoke(IAsyncResult result)" NewName="_4dotsFreePDFCompress.frmProgress.cdc5367055e2ee1345f9ba3837d21a1e0.EndInvoke(IAsyncResult result)" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.ShowFormDelegate..ctor(Object object, IntPtr method)" NewName="_4dotsFreePDFCompress.frmProgress.cc0f226f9f3d4cf4c7f5e0e36d5c52e4c..ctor(Object object, IntPtr method)" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.ShowFormDelegate.Invoke()" NewName="_4dotsFreePDFCompress.frmProgress.cc0f226f9f3d4cf4c7f5e0e36d5c52e4c.Invoke()" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.ShowFormDelegate.BeginInvoke(AsyncCallback callback, Object object)" NewName="_4dotsFreePDFCompress.frmProgress.cc0f226f9f3d4cf4c7f5e0e36d5c52e4c.BeginInvoke(AsyncCallback callback, Object object)" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress.ShowFormDelegate.EndInvoke(IAsyncResult result)" NewName="_4dotsFreePDFCompress.frmProgress.cc0f226f9f3d4cf4c7f5e0e36d5c52e4c.EndInvoke(IAsyncResult result)" />
+<Entry OldName="_4dotsFreePDFCompress.ArgsHelper" NewName="A.cca2306234a12cbf3b8a2adc8258f9fa3" />
+<Entry OldName="_4dotsFreePDFCompress.DownloadSuggestionsHelper" NewName="A.c240d28525d6b1d0bb86c316447ebf3d7" />
+<Entry OldName="_4dotsFreePDFCompress.ExcelImporter" NewName="A.ce065abc4f7dc9a6a7f11283b5770e92f" />
+<Entry OldName="_4dotsFreePDFCompress.PDFCompressHelper" NewName="A.cf1beede11cc5fa6c281e6576464ed404" />
+<Entry OldName="_4dotsFreePDFCompress.ExceptionHandlersHelper" NewName="A.c4ea4de099c9ef199bfea18d55684b5f6" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress+HideFormDelegate" NewName="_4dotsFreePDFCompress.frmProgress+cdc5367055e2ee1345f9ba3837d21a1e0" />
+<Entry OldName="_4dotsFreePDFCompress.frmProgress+ShowFormDelegate" NewName="_4dotsFreePDFCompress.frmProgress+cc0f226f9f3d4cf4c7f5e0e36d5c52e4c" />
+<Entry OldName="_4dotsFreePDFCompress.ImageComboBox" NewName="A.ca13e63297eb3aaa3a7f37b399f60f4d7" />
+<Entry OldName="_4dotsFreePDFCompress.ComboBoxExItem" NewName="A.cc1428305e230b32f7feddf1977207cb1" />
+<Entry OldName="_4dotsFreePDFCompress.Module" NewName="A.cc725c360e64b81ed1adcbb3f6dd8e80a" />
+<Entry OldName="_4dotsFreePDFCompress.OutputFolderHelper" NewName="A.cd619d46f56a09bfc4cb471beeb89c7ef" />
+<Entry OldName="_4dotsFreePDFCompress.Program" NewName="A.c32d14950c7f5db1706df6cd0a846fdf9" />
+<Entry OldName="_4dotsFreePDFCompress.RecentFilesHelper" NewName="A.c0b983d3964d757be32b3f8c1250fb300" />
+<Entry OldName="_4dotsFreePDFCompress.RegistryHelper2" NewName="A.c7e8264d42e0c97d32542eeee7c55094d" />
+<Entry OldName="_4dotsFreePDFCompress.ShareHelper" NewName="A.ce9c27eca87311e9ba63e8e0f22191b2e" />
+<Entry OldName="_4dotsFreePDFCompress.ResFlags" NewName="A.ca36aec298b5a472611a55ec4815412d0" />
+<Entry OldName="_4dotsFreePDFCompress.ResTranslate" NewName="A.cd7eea1d117c5548d4e592bfae29f997a" />
+<Entry OldName="_4dotsFreePDFCompress.TranslateHelper" NewName="A.c1497386da1574e3ddeb6f338468bb8c4" />
+<Entry OldName="_4dotsFreePDFCompress.Properties.Resources" NewName="A.ce3f1819550ee1b56f23ef0968c984505" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;+__StaticArrayInitTypeSize=20" NewName="A.c3a0047e87e72f473d6ec93d7684889c4+c7066d15f71f803be2c1ed49493a6e5de" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;" NewName="A.c3a0047e87e72f473d6ec93d7684889c4" />
+<Assembly Name="4dotsFreePDFCompress"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="_4dotsFreePDFCompress.ArgsHelper" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="ExamineArgs" Variables="args;V_0;V_1;V_2;tempfile;sr;scont;V_6;k;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;m;V_26;V_27;V_28;ex;" ParamCnt="1" />
+<Method Token="100663300" Name="GetParameter" Variables="arg;spos;V_1;V_2;str;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663301" Name="SplitArguments" Variables="commandLine;parmChars;inSingleQuote;inDoubleQuote;index;V_4;V_5;V_6;V_7;V_8;" ParamCnt="1" />
+<Method Token="100663302" Name="ShowCommandUsage" Variables="msg;" ParamCnt="0" />
+<Method Token="100663303" Name="GetCommandUsage" Variables="msg;V_1;" ParamCnt="0" />
+<Method Token="100663304" Name="get_IsFromWindowsExplorer" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663305" Name="get_IsFromCommandLine" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663306" Name="ExecuteCommandLine" Variables="err;finished;V_2;V_3;exl;V_5;V_6;ex;V_8;V_9;V_10;V_11;" ParamCnt="0" />
+<Type Token="33554436" Name="_4dotsFreePDFCompress.ReadListsResult" />
+<Method Token="100663308" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67108865" Name="Success" />
+<Field Token="67108866" Name="err" />
+<Type Token="33554437" Name="_4dotsFreePDFCompress.YUV" />
+<Method Token="100663309" Name=".ctor" Variables="this;Y;U;V;" ParamCnt="4" />
+<Method Token="100663310" Name="FromRGB" Variables="c;Y;U;V;V_3;" ParamCnt="1" />
+<Method Token="100663311" Name="get_RGB" Variables="this;C;D;E;R;G;B;V_6;" ParamCnt="1" />
+<Field Token="67108867" Name="Y" />
+<Field Token="67108868" Name="U" />
+<Field Token="67108869" Name="V" />
+<Type Token="33554439" Name="_4dotsFreePDFCompress.HSL" />
+<Method Token="100663318" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663319" Name=".ctor" Variables="this;hue;saturation;luminance;" ParamCnt="4" />
+<Method Token="100663320" Name="get_Hue" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663321" Name="set_Hue" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663322" Name="get_Saturation" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663323" Name="set_Saturation" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663324" Name="get_Luminance" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663325" Name="set_Luminance" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663326" Name="get_RGB" Variables="this;r;g;b;temp1;temp2;normalisedH;V_6;V_7;t3;clr;i;V_11;V_12;V_13;V_14;V_15;V_16;V_17;" ParamCnt="1" />
+<Method Token="100663327" Name="toRGB" Variables="rm1;rm2;rh;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663328" Name="FromRGB" Variables="red;green;blue;V_0;" ParamCnt="3" />
+<Method Token="100663329" Name="FromRGB" Variables="c;V_0;" ParamCnt="1" />
+<Field Token="67108871" Name="h" />
+<Field Token="67108872" Name="s" />
+<Field Token="67108873" Name="l" />
+<Type Token="33554440" Name="_4dotsFreePDFCompress.ColorSpace" />
+<Method Token="100663330" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663331" Name="Luminance" Variables="source;factor;width;height;rc;dest;dataSrc;dataDest;offset;V_7;bytesSrc;bytesDest;y;x;hsl;c;V_14;V_15;V_16;" ParamCnt="2" />
+<Method Token="100663332" Name="Hue" Variables="source;factor;width;height;rc;dest;dataSrc;dataDest;offset;V_7;bytesSrc;bytesDest;y;x;hsl;c;V_14;V_15;V_16;" ParamCnt="2" />
+<Method Token="100663333" Name="Saturation" Variables="source;factor;width;height;rc;dest;dataSrc;dataDest;offset;V_7;bytesSrc;bytesDest;y;x;hsl;c;V_14;V_15;V_16;" ParamCnt="2" />
+<Method Token="100663334" Name="Grayscale" Variables="source;adjustedImage;cmPicture;imageAttributes;g;V_4;" ParamCnt="1" />
+<Method Token="100663335" Name="Negative" Variables="source;adjustedImage;cmPicture;imageAttributes;g;V_4;" ParamCnt="1" />
+<Method Token="100663336" Name="Sepia" Variables="source;adjustedImage;ptsArray;imageAttributes;g;V_4;" ParamCnt="1" />
+<Method Token="100663337" Name="GetBlackAndWhiteImage" Variables="bmp;grayMatrix;g;ia;V_3;" ParamCnt="1" />
+<Type Token="33554441" Name="_4dotsFreePDFCompress.CustomForm" />
+<Method Token="100663338" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663339" Name="OnPaintBackground" Variables="this;e;V_0;g;x;y;lgBrush;" ParamCnt="2" />
+<Method Token="100663340" Name="OnLoad" Variables="this;e;V_0;co;V_2;V_3;V_4;V_5;ex;" ParamCnt="2" />
+<Method Token="100663341" Name="CustomForm_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663342" Name="OnActivated" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663343" Name="ResizeControls" Variables="this;V_0;k;V_2;k;left;right;top;bottom;height;V_9;j;V_11;V_12;V_13;chk;V_15;chk;V_17;chk;V_19;V_20;" ParamCnt="1" />
+<Method Token="100663344" Name="ResizeChildControls" Variables="this;co;k;V_1;k;left;right;top;bottom;height;V_8;j;V_10;V_11;V_12;chk;V_14;chk;V_16;chk;V_18;V_19;" ParamCnt="2" />
+<Method Token="100663345" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663346" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108874" Name="LoadComplete" />
+<Field Token="67108875" Name="tooltip" />
+<Field Token="67108876" Name="components" />
+<Type Token="33554442" Name="_4dotsFreePDFCompress.DownloadSuggestionsHelper" />
+<Method Token="100663347" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663348" Name="SetupDownloadMenuItems" Variables="this;tsiDownload;lastapp;m;tsic;k;V_4;tsi;V_6;V_7;" ParamCnt="2" />
+<Method Token="100663349" Name="tsi_Click" Variables="this;sender;e;tsi;" ParamCnt="3" />
+<Field Token="67108877" Name="tsiDownloadRoot" />
+<Field Token="67108878" Name="Category" />
+<Field Token="67108879" Name="App" />
+<Field Token="67108880" Name="Url" />
+<Type Token="33554443" Name="_4dotsFreePDFCompress.ExcelImporter" />
+<Method Token="100663350" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663351" Name="ImportListExcel" Variables="this;filepath;stream;excelReader;curdir;result;V_4;V_5;V_6;m;k;V_9;file;exk;V_12;V_13;V_14;" ParamCnt="2" />
+<Method Token="100663352" Name="GetPart" Variables="part;V_0;epos;V_2;V_3;epos;V_5;V_6;" ParamCnt="1" />
+<Type Token="33554444" Name="_4dotsFreePDFCompress.frmDownloadUpdate" />
+<Method Token="100663353" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663354" Name="get_DownloadFile" Variables="this;V_0;spos;file;tempdir;V_4;" ParamCnt="1" />
+<Method Token="100663355" Name="get_DownloadURL" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663356" Name="frmDownloadUpdate_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663357" Name="client_DownloadFileCompleted" Variables="this;sender;e;V_0;ex;" ParamCnt="3" />
+<Method Token="100663358" Name="client_DownloadProgressChanged" Variables="this;sender;e;ukb;umb;V_2;" ParamCnt="3" />
+<Method Token="100663359" Name="GetEXEDownloadURL" Variables="this;durl;V_1;spos;program;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663360" Name="btnCancelDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663361" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663362" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108881" Name="_DownloadFile" />
+<Field Token="67108882" Name="client" />
+<Field Token="67108883" Name="Cancelled" />
+<Field Token="67108884" Name="components" />
+<Field Token="67108885" Name="pgBar" />
+<Field Token="67108886" Name="btnCancelDownload" />
+<Field Token="67108887" Name="bwDownload" />
+<Field Token="67108888" Name="label1" />
+<Field Token="67108889" Name="lblTotalSize" />
+<Type Token="33554445" Name="_4dotsFreePDFCompress.frmMultipleFiles" />
+<Method Token="100663363" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663364" Name=".ctor" Variables="this;batchjoin;txt;" ParamCnt="3" />
+<Method Token="100663365" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663366" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663367" Name="frmMultipleFiles_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663368" Name="frmMultipleFiles_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663369" Name="btnBrowse_Click" Variables="this;sender;e;V_0;k;V_2;" ParamCnt="3" />
+<Method Token="100663370" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663371" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108890" Name="Output" />
+<Field Token="67108891" Name="BatchJoin" />
+<Field Token="67108892" Name="components" />
+<Field Token="67108893" Name="lblBatchJoin" />
+<Field Token="67108894" Name="btnCancel" />
+<Field Token="67108895" Name="btnOK" />
+<Field Token="67108896" Name="txtFiles" />
+<Field Token="67108897" Name="label2" />
+<Field Token="67108898" Name="btnBrowse" />
+<Field Token="67108899" Name="openFileDialog1" />
+<Type Token="33554446" Name="_4dotsFreePDFCompress.frmPromotion" />
+<Method Token="100663372" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663373" Name="picPromotion_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663374" Name="VisitWebpage" Variables="this;" ParamCnt="1" />
+<Method Token="100663375" Name="lnkPromotion_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663376" Name="btnOK_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663377" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663378" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108900" Name="components" />
+<Field Token="67108901" Name="label1" />
+<Field Token="67108902" Name="lnkPromotion" />
+<Field Token="67108903" Name="picPromotion" />
+<Field Token="67108904" Name="chkVisitWebpage" />
+<Field Token="67108905" Name="chkDoNotShowAgain" />
+<Field Token="67108906" Name="btnOK" />
+<Type Token="33554447" Name="_4dotsFreePDFCompress.frmResult" />
+<Method Token="100663379" Name=".ctor" Variables="this;_bytesbefore;_bytesafter;bytessaved;kbsaved;kbbefore;kbafter;perc_cr;percafter;V_6;mbsaved;" ParamCnt="3" />
+<Method Token="100663380" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663381" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663382" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108907" Name="components" />
+<Field Token="67108908" Name="label1" />
+<Field Token="67108909" Name="lblSaved" />
+<Field Token="67108910" Name="label3" />
+<Field Token="67108911" Name="lblCompressionLevel" />
+<Field Token="67108912" Name="label2" />
+<Field Token="67108913" Name="progressBar1" />
+<Field Token="67108914" Name="pbAfter" />
+<Field Token="67108915" Name="label4" />
+<Field Token="67108916" Name="btnOK" />
+<Field Token="67108917" Name="label5" />
+<Field Token="67108918" Name="lblPercentageAfter" />
+<Field Token="67108919" Name="lblSizeBefore" />
+<Field Token="67108920" Name="lblSizeAfter" />
+<Type Token="33554448" Name="_4dotsFreePDFCompress.frmSettings" />
+<Method Token="100663383" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663384" Name="btnOK_Click" Variables="this;sender;e;V_0;V_1;proc;regval;V_4;V_5;V_6;" ParamCnt="3" />
+<Method Token="100663385" Name="frmSettings_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663386" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663387" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663388" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108921" Name="InitialChoice" />
+<Field Token="67108922" Name="components" />
+<Field Token="67108923" Name="btnOK" />
+<Field Token="67108924" Name="btnCancel" />
+<Field Token="67108925" Name="chkAllowSharing" />
+<Type Token="33554449" Name="_4dotsFreePDFCompress.PDFCompressHelper" />
+<Method Token="100663389" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663390" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663391" Name="CompressDecompressMultiplePDF" Variables="dt;OutputDir;compress_images;images_quality;overwrite;keep_backup;err;k;outfilepath;filepath;password;rootfolder;V_6;V_7;V_8;dirpath;V_10;subfolderspos;subfolder;V_13;V_14;dep;outdfp;V_17;ex;V_19;" ParamCnt="6" />
+<Method Token="100663392" Name="CompressDecompressMultiplePDFCmd" Variables="dt;err;k;outfilepath;filepath;password;V_5;V_6;V_7;dirpath;V_9;V_10;V_11;V_12;V_13;ex;V_15;V_16;" ParamCnt="1" />
+<Method Token="100663393" Name="CompressDecompressSinglePDF" Variables="InputFile;OutputFile;Password;CompressImages;ImageQuality;Overwrite;KeepBackup;err;fi;dtcreated;dtlastmod;reader;OutputFile2;V_6;exd;V_8;TmpFile;fi2;input;V_12;ex;V_14;V_15;V_16;V_17;f2;dres;V_20;V_21;V_22;V_23;V_24;V_25;memoryStream;stamper;total;i;V_30;V_31;V_32;input;V_34;exr2;outputPdfStream;document;copy;totalPageCnt;t;V_41;V_42;V_43;V_44;V_45;bakfilepath;V_47;fibefore;fiafter;V_50;V_51;exm;V_53;V_54;ex;" ParamCnt="7" />
+<Method Token="100663394" Name="ReduceResolution" Variables="reader;quality;n;i;obj;dict;subType;stream;V_6;V_7;V_8;image;filter;img;ll;width;height;V_15;dotnetImg;codec;eParams;msImg;V_20;" ParamCnt="2" />
+<Method Token="100663395" Name="ReduceResolution2" Variables="reader;quality;n;i;obj;dict;subType;stream;imgpath;V_7;V_8;V_9;image;filter;img;ll;width;height;V_16;imageStream;dib;bitmap;V_20;V_21;V_22;V_23;V_24;dotnetImg;codec;eParams;msImg;V_29;img2;msImg2;V_32;img3;img2;msImg2;V_36;" ParamCnt="2" />
+<Method Token="100663396" Name="InvertImage" Variables="img;pic;y;x;inv;V_4;V_5;V_6;" ParamCnt="1" />
+<Method Token="100663397" Name="CompressPdf" Variables="this;src;reader;ms;stamper;total;i;V_5;V_6;" ParamCnt="2" />
+<Method Token="100663398" Name="DecompressPdf" Variables="this;src;reader;ms;stamper;total;i;V_5;V_6;" ParamCnt="2" />
+<Field Token="67108926" Name="Title" />
+<Field Token="67108927" Name="Author" />
+<Field Token="67108928" Name="Subject" />
+<Field Token="67108929" Name="Keywords" />
+<Field Token="67108930" Name="CreationDate" />
+<Field Token="67108931" Name="ModificationDate" />
+<Field Token="67108932" Name="Creator" />
+<Field Token="67108933" Name="SetDocInfo" />
+<Field Token="67108934" Name="CANCELLED" />
+<Field Token="67108935" Name="DefaultPassword" />
+<Field Token="67108936" Name="ErrMultiple" />
+<Field Token="67108937" Name="BytesBefore" />
+<Field Token="67108938" Name="BytesAfter" />
+<Type Token="33554450" Name="_4dotsFreePDFCompress.ExceptionHandlersHelper" />
+<Method Token="100663399" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663400" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663401" Name="myExceptionHandler" Variables="sender;e;ex;" ParamCnt="2" />
+<Method Token="100663402" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554451" Name="_4dotsFreePDFCompress.frmAbout" />
+<Method Token="100663403" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663404" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663405" Name="frmAbout_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663406" Name="OnPaintBackground" Variables="this;e;g;x;y;lgBrush;" ParamCnt="2" />
+<Method Token="100663407" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663408" Name="lblAdeia_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663409" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663410" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108939" Name="lblf" />
+<Field Token="67108940" Name="LDT" />
+<Field Token="67108941" Name="components" />
+<Field Token="67108942" Name="lblAbout" />
+<Field Token="67108943" Name="btnClose" />
+<Field Token="67108944" Name="pictureBox1" />
+<Type Token="33554453" Name="_4dotsFreePDFCompress.frmLanguage" />
+<Method Token="100663418" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663419" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663420" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663421" Name="DownloadLanguage" Variables="langcode;lastversion;languagesdownloaded;resetlangdown;dllfile;downurl;lang_has_been_downloaded;V_3;V_4;V_5;V_6;V_7;V_8;pr;V_10;V_11;" ParamCnt="4" />
+<Method Token="100663422" Name="SetLanguages" Variables="" ParamCnt="0" />
+<Method Token="100663423" Name="frmLanguage_Load" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663424" Name="SetLanguage" Variables="lang;setlang;lastversion;languagesdownloaded;resetlangdown;keym;keym2;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;ex;" ParamCnt="0" />
+<Method Token="100663425" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663426" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108951" Name="LangCodes" />
+<Field Token="67108952" Name="LangDesc" />
+<Field Token="67108953" Name="LangImg" />
+<Field Token="67108954" Name="SelectedLanguageCode" />
+<Field Token="67108955" Name="LangURL" />
+<Field Token="67108956" Name="RegKeyName" />
+<Field Token="67108957" Name="components" />
+<Field Token="67108958" Name="label1" />
+<Field Token="67108959" Name="cmbLanguage" />
+<Field Token="67108960" Name="btnOK" />
+<Type Token="33554454" Name="_4dotsFreePDFCompress.frmMain" />
+<Method Token="100663427" Name=".ctor" Variables="this;V_0;V_1;fp;" ParamCnt="1" />
+<Method Token="100663428" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663429" Name="get_Instance" Variables="V_0;V_1;" ParamCnt="0" />
+<Method Token="100663430" Name="set_Instance" Variables="value;" ParamCnt="1" />
+<Method Token="100663431" Name="button1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663432" Name="AddVisual" Variables="this;argsvisual;k;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663433" Name="SetupOutputFolders" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663434" Name="SetupOnLoad" Variables="this;ds;V_1;" ParamCnt="1" />
+<Method Token="100663435" Name="AdjustSizeLocation" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="1" />
+<Method Token="100663436" Name="SaveSizeLocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663437" Name="frmMain_Load" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663438" Name="AddLanguageMenuItems" Variables="this;k;ti;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663439" Name="tiLang_Click" Variables="this;sender;e;ti;langcode;k;til;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663440" Name="ChangeLanguage" Variables="this;language_code;maximized;V_1;" ParamCnt="2" />
+<Method Token="100663441" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663442" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663443" Name="btnAddFiles_Click" Variables="this;sender;e;V_0;k;V_2;" ParamCnt="3" />
+<Method Token="100663444" Name="AddFile" Variables="this;filepath;V_0;" ParamCnt="2" />
+<Method Token="100663445" Name="AddFile" Variables="this;filepath;password;V_0;" ParamCnt="3" />
+<Method Token="100663446" Name="AddFile" Variables="this;filepath;password;rootfolder;dr;fi;sizekb;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="4" />
+<Method Token="100663447" Name="btnAddFolder_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663448" Name="AddFolder" Variables="this;folder_path;" ParamCnt="2" />
+<Method Token="100663449" Name="AddFolder" Variables="this;folder_path;password;filez;V_1;V_2;V_3;V_4;dres;V_6;k;V_8;V_9;" ParamCnt="3" />
+<Method Token="100663450" Name="btnRemoveFile_Click" Variables="this;sender;e;cells;rows;k;V_3;V_4;k;V_6;" ParamCnt="3" />
+<Method Token="100663451" Name="tiHelpFeedback_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663452" Name="openToolStripMenuItem_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663453" Name="buyNowToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663454" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663455" Name="btnClearMerge_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663456" Name="CompressDecompressPDF" Variables="this;compress;" ParamCnt="2" />
+<Method Token="100663457" Name="btnCompressPDF_Click" Variables="this;sender;e;compress;V_1;V_2;V_3;V_4;V_5;V_6;V_7;f;V_9;V_10;frmres;ex;" ParamCnt="3" />
+<Method Token="100663458" Name="frmMain_Resize" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663459" Name="dgFiles_DragDrop" Variables="this;sender;e;V_0;filez;k;isimage;V_4;" ParamCnt="3" />
+<Method Token="100663460" Name="dgFiles_DragEnter" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663461" Name="dgFiles_DragOver" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663462" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663463" Name="btnOpenFolder_Click" Variables="this;sender;e;V_0;dirpath;filepath;outfilepath;args;info;V_6;V_7;V_8;V_9;V_10;subfolderspos;subfolder;V_13;" ParamCnt="3" />
+<Method Token="100663464" Name="btnChangeFolder_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663465" Name="backgroundWorker1_DoWork" Variables="this;sender;e;fp;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663466" Name="frmMain_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663467" Name="cmbOutputDir_SelectedIndexChanged" Variables="this;sender;e;V_0;V_1;fob;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663468" Name="exploreToolStripMenuItem_Click" Variables="this;sender;e;filepath;args;info;V_3;" ParamCnt="3" />
+<Method Token="100663469" Name="contextMenuStrip1_Opening" Variables="this;sender;e;p;hit;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663470" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663471" Name="tsbDecompress_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663472" Name="txtImageQuality_KeyPress" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663473" Name="tbQuality_ValueChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663474" Name="nudQuality_ValueChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663475" Name="chkImages_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663476" Name="ImportList" Variables="this;listfilepath;curdir;sr;line;filepath;password;V_5;compos;V_7;epos;V_9;V_10;epos;V_12;V_13;V_14;V_15;V_16;exq;V_18;V_19;V_20;V_21;ex;" ParamCnt="2" />
+<Method Token="100663477" Name="tsbImportList_Click" Variables="this;sender;e;V_0;V_1;f;" ParamCnt="3" />
+<Method Token="100663478" Name="bwCompress_DoWork" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663479" Name="bwCompress_ProgressChanged" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663480" Name="bwCompress_RunWorkerCompleted" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663481" Name="tsiFacebook_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663482" Name="tsiTwitter_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663483" Name="tsiGooglePlus_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663484" Name="tsiLinkedIn_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663485" Name="tsiEmail_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663486" Name="EnableDisableForm" Variables="this;enable;V_0;co;V_2;" ParamCnt="2" />
+<Method Token="100663487" Name="tsdbAddFile_ButtonClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663488" Name="tsdbAddFile_DropDownItemClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663489" Name="tsdbAddFolder_ButtonClick" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663490" Name="tsdbAddFolder_DropDownItemClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663491" Name="tsdbImportList_ButtonClick" Variables="this;sender;e;V_0;V_1;f;" ParamCnt="3" />
+<Method Token="100663492" Name="tsdbImportList_DropDownItemClicked" Variables="this;sender;e;V_0;f;" ParamCnt="3" />
+<Method Token="100663493" Name="keepFolderStructureToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663494" Name="luminatiHelperToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663495" Name="doNotAskForPasswordToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663496" Name="enterFileListToolStripMenuItem_Click" Variables="this;sender;e;txt;f;k;V_3;V_4;k;V_6;" ParamCnt="3" />
+<Method Token="100663497" Name="saveFileListToolStripMenuItem_Click" Variables="this;sender;e;V_0;V_1;sw;k;V_4;" ParamCnt="3" />
+<Method Token="100663498" Name="clearToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663499" Name="selectAllToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663500" Name="selectNoneToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663501" Name="invertSelectionToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663502" Name="importFromExcelFileToolStripMenuItem_Click" Variables="this;sender;e;openFileDialog1;V_1;xl;" ParamCnt="3" />
+<Method Token="100663503" Name="youtubeChannelToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663504" Name="donateViaPaypalToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663505" Name="tryOnlineVersionAtOnlinepdfappscomToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663506" Name="commandLineArgumentsToolStripMenuItem_Click" Variables="this;sender;e;fm;" ParamCnt="3" />
+<Method Token="100663507" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663508" Name="InitializeComponent" Variables="this;resources;dataGridViewCellStyle2;dataGridViewCellStyle1;" ParamCnt="1" />
+<Field Token="67108961" Name="_Instance" />
+<Field Token="67108962" Name="dt" />
+<Field Token="67108963" Name="IsDragging" />
+<Field Token="67108964" Name="CompressImages" />
+<Field Token="67108965" Name="ImagesQuality" />
+<Field Token="67108966" Name="OutputDir" />
+<Field Token="67108967" Name="OverwritePDF" />
+<Field Token="67108968" Name="KeepBackup" />
+<Field Token="67108969" Name="SilentAdd" />
+<Field Token="67108970" Name="SilentAddErr" />
+<Field Token="67108971" Name="components" />
+<Field Token="67108972" Name="menuStrip1" />
+<Field Token="67108973" Name="fileToolStripMenuItem" />
+<Field Token="67108974" Name="exitToolStripMenuItem" />
+<Field Token="67108975" Name="helpToolStripMenuItem" />
+<Field Token="67108976" Name="helpGuideToolStripMenuItem" />
+<Field Token="67108977" Name="aboutToolStripMenuItem" />
+<Field Token="67108978" Name="openFileDialog1" />
+<Field Token="67108979" Name="saveFileDialog1" />
+<Field Token="67108980" Name="folderBrowserDialog1" />
+<Field Token="67108981" Name="tiHelpFeedback" />
+<Field Token="67108982" Name="contextMenuStrip1" />
+<Field Token="67108983" Name="exploreToolStripMenuItem" />
+<Field Token="67108984" Name="toolStripMenuItem1" />
+<Field Token="67108985" Name="dgFiles" />
+<Field Token="67108986" Name="downloadToolStripMenuItem" />
+<Field Token="67108987" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Field Token="67108988" Name="languageToolStripMenuItem" />
+<Field Token="67108989" Name="btnOpenFolder" />
+<Field Token="67108990" Name="btnChangeFolder" />
+<Field Token="67108991" Name="folderBrowserDialog2" />
+<Field Token="67108992" Name="groupBox1" />
+<Field Token="67108993" Name="bwCompress" />
+<Field Token="67108994" Name="toolStrip1" />
+<Field Token="67108995" Name="tsbRemove" />
+<Field Token="67108996" Name="toolStripSeparator1" />
+<Field Token="67108997" Name="tsbCompress" />
+<Field Token="67108998" Name="toolTip1" />
+<Field Token="67108999" Name="cmbOutputDir" />
+<Field Token="67109000" Name="openToolStripMenuItem" />
+<Field Token="67109001" Name="colFilename" />
+<Field Token="67109002" Name="colUserPassword" />
+<Field Token="67109003" Name="colSize" />
+<Field Token="67109004" Name="colFileDate" />
+<Field Token="67109005" Name="colFullFilePath" />
+<Field Token="67109006" Name="removeToolStripMenuItem" />
+<Field Token="67109007" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67109008" Name="chkKeepBackup" />
+<Field Token="67109009" Name="documentsMedataToolStripMenuItem" />
+<Field Token="67109010" Name="rdCompress" />
+<Field Token="67109011" Name="rdDecompress" />
+<Field Token="67109012" Name="chkImages" />
+<Field Token="67109013" Name="grpImageQuality" />
+<Field Token="67109014" Name="label1" />
+<Field Token="67109015" Name="tbQuality" />
+<Field Token="67109016" Name="nudQuality" />
+<Field Token="67109017" Name="tsbShare" />
+<Field Token="67109018" Name="tsiFacebook" />
+<Field Token="67109019" Name="tsiTwitter" />
+<Field Token="67109020" Name="tsiGooglePlus" />
+<Field Token="67109021" Name="tsiLinkedIn" />
+<Field Token="67109022" Name="tsiEmail" />
+<Field Token="67109023" Name="tsdbImportList" />
+<Field Token="67109024" Name="tsdbAddFile" />
+<Field Token="67109025" Name="toolStripSeparator2" />
+<Field Token="67109026" Name="toolStripSeparator3" />
+<Field Token="67109027" Name="tsdbAddFolder" />
+<Field Token="67109028" Name="optionsToolStripMenuItem" />
+<Field Token="67109029" Name="keepFolderStructureToolStripMenuItem" />
+<Field Token="67109030" Name="luminatiHelperToolStripMenuItem" />
+<Field Token="67109031" Name="chkInvert" />
+<Field Token="67109032" Name="chkInvert2" />
+<Field Token="67109033" Name="chkBlackWhiteImages" />
+<Field Token="67109034" Name="chkGrayscale" />
+<Field Token="67109035" Name="doNotAskForPasswordToolStripMenuItem" />
+<Field Token="67109036" Name="addFilesToolStripMenuItem" />
+<Field Token="67109037" Name="addFolderToolStripMenuItem" />
+<Field Token="67109038" Name="toolStripMenuItem2" />
+<Field Token="67109039" Name="importFromTextFileListToolStripMenuItem" />
+<Field Token="67109040" Name="importFromExcelFileToolStripMenuItem" />
+<Field Token="67109041" Name="toolStripMenuItem3" />
+<Field Token="67109042" Name="editToolStripMenuItem" />
+<Field Token="67109043" Name="removeToolStripMenuItem1" />
+<Field Token="67109044" Name="clearToolStripMenuItem" />
+<Field Token="67109045" Name="toolStripMenuItem4" />
+<Field Token="67109046" Name="selectAllToolStripMenuItem" />
+<Field Token="67109047" Name="selectNoneToolStripMenuItem" />
+<Field Token="67109048" Name="invertSelectionToolStripMenuItem" />
+<Field Token="67109049" Name="toolsToolStripMenuItem" />
+<Field Token="67109050" Name="compressToolStripMenuItem" />
+<Field Token="67109051" Name="enterFileListToolStripMenuItem" />
+<Field Token="67109052" Name="saveFileListToolStripMenuItem" />
+<Field Token="67109053" Name="toolStripMenuItem5" />
+<Field Token="67109054" Name="donateViaPaypalToolStripMenuItem" />
+<Field Token="67109055" Name="youtubeChannelToolStripMenuItem" />
+<Field Token="67109056" Name="checkForNewVersionEachWeekToolStripMenuItem" />
+<Field Token="67109057" Name="keepCreationDateToolStripMenuItem" />
+<Field Token="67109058" Name="keepLastModificationDateToolStripMenuItem" />
+<Field Token="67109059" Name="exploreOutputFolderWhenDoneToolStripMenuItem" />
+<Field Token="67109060" Name="showMessageOnSuccessToolStripMenuItem" />
+<Field Token="67109061" Name="showResultWindowToolStripMenuItem" />
+<Field Token="67109062" Name="tryOnlineVersionAtOnlinepdfappscomToolStripMenuItem" />
+<Field Token="67109063" Name="commandLineArgumentsToolStripMenuItem" />
+<Type Token="33554455" Name="_4dotsFreePDFCompress.frmMessage" />
+<Method Token="100663509" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663510" Name=".ctor" Variables="this;forCmdArgs;" ParamCnt="2" />
+<Method Token="100663511" Name="btnOK_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663512" Name="frmMessage_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663513" Name="btnCopy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663514" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663515" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109064" Name="ForCommandLineArgs" />
+<Field Token="67109065" Name="components" />
+<Field Token="67109066" Name="lblMsg" />
+<Field Token="67109067" Name="txtMsg" />
+<Field Token="67109068" Name="btnOK" />
+<Field Token="67109069" Name="chkShow" />
+<Field Token="67109070" Name="btnCopy" />
+<Type Token="33554456" Name="_4dotsFreePDFCompress.frmOutputSubFolder" />
+<Method Token="100663516" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663517" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663518" Name="btnOK_Click" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663519" Name="IsLegalFilename" Variables="name;fileInfo;V_1;" ParamCnt="1" />
+<Method Token="100663520" Name="frmOutputSubFolder_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663521" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663522" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109071" Name="components" />
+<Field Token="67109072" Name="btnOK" />
+<Field Token="67109073" Name="btnCancel" />
+<Field Token="67109074" Name="label1" />
+<Field Token="67109075" Name="txtSubfolder" />
+<Type Token="33554457" Name="_4dotsFreePDFCompress.frmPassword" />
+<Method Token="100663523" Name=".ctor" Variables="this;inputfile;lbl;" ParamCnt="2" />
+<Method Token="100663524" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663525" Name="btnOK_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663526" Name="frmPassword_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663527" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663528" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109076" Name="InputFile" />
+<Field Token="67109077" Name="components" />
+<Field Token="67109078" Name="btnOK" />
+<Field Token="67109079" Name="label1" />
+<Field Token="67109080" Name="btnCancel" />
+<Field Token="67109081" Name="txtPassword" />
+<Field Token="67109082" Name="chkPassword" />
+<Type Token="33554458" Name="_4dotsFreePDFCompress.frmProgress" />
+<Method Token="100663529" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663530" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663531" Name="get_Instance" Variables="V_0;V_1;" ParamCnt="0" />
+<Method Token="100663532" Name="set_Instance" Variables="value;" ParamCnt="1" />
+<Method Token="100663533" Name="HideForm" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663534" Name="ShowForm" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663535" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663536" Name="timTime_Tick" Variables="this;sender;e;ts;V_1;" ParamCnt="3" />
+<Method Token="100663537" Name="frmProgress_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663538" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663539" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663540" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109083" Name="_Instance" />
+<Field Token="67109084" Name="Secs" />
+<Field Token="67109085" Name="components" />
+<Field Token="67109086" Name="label1" />
+<Field Token="67109087" Name="btnCancel" />
+<Field Token="67109088" Name="progressBar1" />
+<Field Token="67109089" Name="lblTime" />
+<Field Token="67109090" Name="timTime" />
+<Type Token="33554459" Name="_4dotsFreePDFCompress.frmUninstallQuestionnaire" />
+<Method Token="100663541" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663542" Name=".ctor" Variables="this;_onuninstall;" ParamCnt="2" />
+<Method Token="100663543" Name="btnExit_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663544" Name="btnOK_Click" Variables="this;sender;e;buy;like;version;email;opinion;postCgi;data;dataLine;V_8;request;bytes;outputStream;response;responseStream;reader;exp;V_16;" ParamCnt="3" />
+<Method Token="100663545" Name="frmUninstallQuestionnaire_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663546" Name="txtOpinion_TextChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663547" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663548" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109091" Name="OnUninstall" />
+<Field Token="67109092" Name="components" />
+<Field Token="67109093" Name="label1" />
+<Field Token="67109094" Name="label2" />
+<Field Token="67109095" Name="label3" />
+<Field Token="67109096" Name="btnOK" />
+<Field Token="67109097" Name="btnExit" />
+<Field Token="67109098" Name="txtLike" />
+<Field Token="67109099" Name="txtBuy" />
+<Field Token="67109100" Name="label4" />
+<Field Token="67109101" Name="txtEmail" />
+<Field Token="67109102" Name="txtOpinion" />
+<Field Token="67109103" Name="label5" />
+<Type Token="33554460" Name="_4dotsFreePDFCompress.ImageComboBox" />
+<Method Token="100663549" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663550" Name="get_ImageList" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663551" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663552" Name="OnDrawItem" Variables="this;ea;item;imageSize;bounds;V_3;V_4;" ParamCnt="2" />
+<Field Token="67109104" Name="imageList" />
+<Type Token="33554461" Name="_4dotsFreePDFCompress.ComboBoxExItem" />
+<Method Token="100663553" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663554" Name=".ctor" Variables="this;text;" ParamCnt="2" />
+<Method Token="100663555" Name=".ctor" Variables="this;text;imageIndex;" ParamCnt="3" />
+<Method Token="100663556" Name="get_Text" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663557" Name="set_Text" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663558" Name="get_ImageIndex" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663559" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663560" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67109105" Name="_text" />
+<Field Token="67109106" Name="_imageIndex" />
+<Type Token="33554462" Name="_4dotsFreePDFCompress.MessageHelper" />
+<Method Token="100663561" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663562" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663563" Name="RegisterWindowMessage" Variables="lpString;" ParamCnt="1" />
+<Method Token="100663564" Name="FindWindow" Variables="lpClassName;lpWindowName;" ParamCnt="2" />
+<Method Token="100663565" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663566" Name="PostMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663567" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663568" Name="PostMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663569" Name="SetForegroundWindow" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663570" Name="bringAppToFront" Variables="this;hWnd;V_0;" ParamCnt="2" />
+<Method Token="100663571" Name="sendWindowsStringMessage" Variables="this;hWnd;wParam;msg;result;V_1;sarr;len;cds;V_5;" ParamCnt="4" />
+<Method Token="100663572" Name="sendWindowsMessage" Variables="this;hWnd;Msg;wParam;lParam;result;V_1;V_2;" ParamCnt="5" />
+<Method Token="100663573" Name="getWindowId" Variables="this;className;windowName;V_0;" ParamCnt="3" />
+<Field Token="67109107" Name="WM_USER" />
+<Field Token="67109108" Name="WM_COPYDATA" />
+<Field Token="67109109" Name="HWND_BROADCAST" />
+<Field Token="67109110" Name="WM_ACTIVATEAPP" />
+<Type Token="33554463" Name="_4dotsFreePDFCompress.Module" />
+<Method Token="100663574" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663575" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663576" Name="SHParseDisplayName" Variables="pszName;pbc;ppidl;sfgaoIn;psfgaoOut;" ParamCnt="5" />
+<Method Token="100663577" Name="SHOpenFolderAndSelectItems" Variables="pidlFolder;cidl;apidl;dwFlags;" ParamCnt="4" />
+<Method Token="100663578" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663579" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663580" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;firstPathParts;secondPathParts;sameCounter;newPath;i;V_5;V_6;V_7;V_8;i;V_10;V_11;V_12;V_13;i;V_15;" ParamCnt="2" />
+<Method Token="100663581" Name="ShowMessage" Variables="msg;V_0;" ParamCnt="1" />
+<Method Token="100663582" Name="ShowQuestionDialog" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663583" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663584" Name="ShowError" Variables="msg;V_0;" ParamCnt="1" />
+<Method Token="100663585" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663586" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663587" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663588" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663589" Name="get_Modex64" Variables="V_0;V_1;V_2;V_3;V_4;" ParamCnt="0" />
+<Method Token="100663590" Name="get_CmdAddSubdirectories" Variables="k;V_1;V_2;V_3;" ParamCnt="0" />
+<Method Token="100663591" Name="IsLegalFilename" Variables="name;fileInfo;V_1;" ParamCnt="1" />
+<Method Token="100663592" Name="DeleteApplicationSettingsFile" Variables="settingsFile;fi;V_2;ex;" ParamCnt="0" />
+<Field Token="67109111" Name="ApplicationName" />
+<Field Token="67109112" Name="ApplicationName2" />
+<Field Token="67109113" Name="ApplicationTitle" />
+<Field Token="67109114" Name="ShortApplicationTitle" />
+<Field Token="67109115" Name="DownloadURL" />
+<Field Token="67109116" Name="HelpURL" />
+<Field Token="67109117" Name="LangURL" />
+<Field Token="67109118" Name="StoreUrl" />
+<Field Token="67109119" Name="VersionURL" />
+<Field Token="67109120" Name="SelectedLanguage" />
+<Field Token="67109121" Name="args" />
+<Field Token="67109122" Name="IsCommandLine" />
+<Field Token="67109123" Name="IsFromWindowsExplorer" />
+<Field Token="67109124" Name="UserDocumentsFolder" />
+<Field Token="67109125" Name="CmdCompress" />
+<Field Token="67109126" Name="CmdUserPassword" />
+<Field Token="67109127" Name="CmdOutputFile" />
+<Field Token="67109128" Name="CmdOutputFolder" />
+<Field Token="67109129" Name="CmdOverwritePDF" />
+<Field Token="67109130" Name="CmdKeepBackup" />
+<Field Token="67109131" Name="CmdImageQuality" />
+<Field Token="67109132" Name="CmdCompressImages" />
+<Field Token="67109133" Name="CmdLogFile" />
+<Field Token="67109134" Name="CmdImportListFile" />
+<Field Token="67109135" Name="CmdLogFileWriter" />
+<Field Token="67109136" Name="CmdFiles" />
+<Field Token="67109137" Name="DialogFilesFilter" />
+<Field Token="67109138" Name="_Modex64" />
+<Type Token="33554464" Name="_4dotsFreePDFCompress.GetTitleAndNumberOfPagesResult" />
+<Method Token="100663593" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109139" Name="Title" />
+<Field Token="67109140" Name="NumberOfPages" />
+<Type Token="33554465" Name="_4dotsFreePDFCompress.NiceLine" />
+<Method Token="100663594" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663595" Name="get_Caption" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663596" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663597" Name="get_CaptionMarginSpace" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663598" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663599" Name="get_CaptionPadding" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663600" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663601" Name="get_LineVerticalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663602" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663603" Name="get_CaptionOrizontalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663604" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663605" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663606" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663607" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
+<Method Token="100663608" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663609" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109141" Name="components" />
+<Field Token="67109142" Name="_Caption" />
+<Field Token="67109143" Name="_CaptionMarginSpace" />
+<Field Token="67109144" Name="_CaptionPadding" />
+<Field Token="67109145" Name="_LineVerticalAlign" />
+<Field Token="67109146" Name="_CaptionOrizontalAlign" />
+<Type Token="33554466" Name="_4dotsFreePDFCompress.LineVerticalAlign" />
+<Field Token="67109147" Name="value__" />
+<Field Token="67109148" Name="Top" />
+<Field Token="67109149" Name="Middle" />
+<Field Token="67109150" Name="Bottom" />
+<Type Token="33554467" Name="_4dotsFreePDFCompress.CaptionOrizontalAlign" />
+<Field Token="67109151" Name="value__" />
+<Field Token="67109152" Name="Left" />
+<Field Token="67109153" Name="Center" />
+<Field Token="67109154" Name="Right" />
+<Type Token="33554468" Name="_4dotsFreePDFCompress.OutputFolderHelper" />
+<Method Token="100663610" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663611" Name="SaveOutputFolder" Variables="folder;lst;lsi;cmbc;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;k;V_12;k;V_14;V_15;V_16;V_17;V_18;V_19;" ParamCnt="1" />
+<Method Token="100663612" Name="LoadOutputFolders" Variables="k;V_1;V_2;V_3;V_4;V_5;" ParamCnt="0" />
+<Type Token="33554469" Name="_4dotsFreePDFCompress.Program" />
+<Method Token="100663613" Name="FreeConsole" Variables="" ParamCnt="0" />
+<Method Token="100663614" Name="AttachConsole" Variables="dwProcessId;" ParamCnt="1" />
+<Method Token="100663615" Name="AllocConsole" Variables="" ParamCnt="0" />
+<Method Token="100663616" Name="Main" Variables="args;k;V_1;V_2;V_3;V_4;V_5;V_6;" ParamCnt="1" />
+<Method Token="100663617" Name="InitRegistryLuminati" Variables="proc;V_1;proc2;" ParamCnt="0" />
+<Field Token="67109155" Name="ATTACH_PARENT_PROCESS" />
+<Field Token="67109156" Name="ERROR_ACCESS_DENIED" />
+<Type Token="33554470" Name="_4dotsFreePDFCompress.RecentFilesHelper" />
+<Method Token="100663618" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663619" Name="FillMenuRecentFile" Variables="str;k;V_2;" ParamCnt="0" />
+<Method Token="100663620" Name="FillMenuRecentFolder" Variables="str;k;V_2;" ParamCnt="0" />
+<Method Token="100663621" Name="FillMenuRecentImportList" Variables="str;k;V_2;" ParamCnt="0" />
+<Method Token="100663622" Name="AddRecentFile" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
+<Method Token="100663623" Name="ImportListRecent" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
+<Method Token="100663624" Name="AddRecentFolder" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
+<Method Token="100663625" Name="ArrayToListString" Variables="str;strl;k;V_2;V_3;" ParamCnt="1" />
+<Type Token="33554471" Name="_4dotsFreePDFCompress.RegistryHelper2" />
+<Method Token="100663626" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663627" Name="GetKeyValue" Variables="AppRegKey;keystr;key;key2;key3;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="2" />
+<Method Token="100663628" Name="SetKeyValue" Variables="AppRegKey;keystr;keyvalue;key;key2;key3;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="3" />
+<Type Token="33554472" Name="_4dotsFreePDFCompress.ShareHelper" />
+<Method Token="100663629" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663630" Name="get_ShareURL" Variables="url;V_1;epos;V_3;" ParamCnt="0" />
+<Method Token="100663631" Name="get_ShareText" Variables="txt;V_1;" ParamCnt="0" />
+<Method Token="100663632" Name="ShareFacebook" Variables="" ParamCnt="0" />
+<Method Token="100663633" Name="ShareTwitter" Variables="" ParamCnt="0" />
+<Method Token="100663634" Name="ShareGooglePlus" Variables="" ParamCnt="0" />
+<Method Token="100663635" Name="ShareLinkedIn" Variables="" ParamCnt="0" />
+<Method Token="100663636" Name="ShareEmail" Variables="" ParamCnt="0" />
+<Type Token="33554473" Name="_4dotsFreePDFCompress.ucTextProgressBar" />
+<Method Token="100663637" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663638" Name="SetText" Variables="this;str;V_0;" ParamCnt="2" />
+<Method Token="100663639" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
+<Method Token="100663640" Name="zOnPaint" Variables="this;e;curval;maxval;perc;rangerect;font;brBack;V_6;fillBrush;sPoint;V_9;p;" ParamCnt="2" />
+<Method Token="100663641" Name="WndProc" Variables="this;m;V_0;V_1;graphics;font;textSize;" ParamCnt="2" />
+<Method Token="100663642" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663643" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109157" Name="lblText" />
+<Field Token="67109158" Name="WmPaint" />
+<Field Token="67109159" Name="components" />
+<Type Token="33554474" Name="_4dotsFreePDFCompress.UpdateHelper" />
+<Method Token="100663644" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663645" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663646" Name="InitializeCheckVersionWeek" Variables="lastcheck;V_1;month;day;year;dtlast;V_6;V_7;V_8;" ParamCnt="0" />
+<Method Token="100663647" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663648" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;V_1;V_2;V_3;fdu;resq;V_6;fdu;" ParamCnt="2" />
+<Method Token="100663649" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663650" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663651" Name="CheckVersionBackground" Variables="onstart;res;str;V_3;V_4;V_5;epos;price;V_8;sr;line;found;epos;title;version;app;V_16;verdotpos;vermajor;verminor;curverepos;V_21;curver;dotpos;curmajor;curminor;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;" ParamCnt="0" />
+<Method Token="100663652" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663653" Name="CheckVersion" Variables="onstart;str;V_1;sr;line;found;epos;title;version;app;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;" ParamCnt="1" />
+<Field Token="67109160" Name="bwCheckVersion" />
+<Type Token="33554475" Name="_4dotsFreePDFCompress.CheckVersionResult" />
+<Method Token="100663654" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109161" Name="NewVersionReleased" />
+<Field Token="67109162" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109163" Name="OutputMessage" />
+<Type Token="33554476" Name="_4dotsFreePDFCompress.ResFlags" />
+<Method Token="100663655" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663656" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663657" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663658" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663659" Name="get_flag_belarus" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663660" Name="get_flag_china" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663661" Name="get_flag_croatia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663662" Name="get_flag_czech_republic" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663663" Name="get_flag_denmark" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663664" Name="get_flag_estonia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663665" Name="get_flag_finland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663666" Name="get_flag_france" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663667" Name="get_flag_georgia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663668" Name="get_flag_germany" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663669" Name="get_flag_great_britain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663670" Name="get_flag_greece" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663671" Name="get_flag_hungary" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663672" Name="get_flag_iceland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663673" Name="get_flag_india" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663674" Name="get_flag_indonesia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663675" Name="get_flag_iran" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663676" Name="get_flag_israel" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663677" Name="get_flag_italy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663678" Name="get_flag_japan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663679" Name="get_flag_latvia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663680" Name="get_flag_lithuania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663681" Name="get_flag_netherlands" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663682" Name="get_flag_norway" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663683" Name="get_flag_poland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663684" Name="get_flag_portugal" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663685" Name="get_flag_romania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663686" Name="get_flag_russia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663687" Name="get_flag_saudi_arabia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663688" Name="get_flag_slovakia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663689" Name="get_flag_slovenia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663690" Name="get_flag_south_korea" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663691" Name="get_flag_spain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663692" Name="get_flag_sweden" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663693" Name="get_flag_thailand" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663694" Name="get_flag_turkey" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663695" Name="get_flag_ukraine" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663696" Name="get_flag_vietnam" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109164" Name="resourceMan" />
+<Field Token="67109165" Name="resourceCulture" />
+<Type Token="33554477" Name="_4dotsFreePDFCompress.ResTranslate" />
+<Method Token="100663697" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663698" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663699" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663700" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663701" Name="get_A_new_version_has_been_released__Press_the_OK_button_to_download_the_new_version" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663702" Name="get_A_new_version_has_been_released__Would_you_like_to_download_it_now__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663703" Name="get_Add_Subdirectories__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663704" Name="get_An_error_occured__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663705" Name="get_An_error_occured___n" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663706" Name="get_An_error_occured_while_protecting_PDF_File" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663707" Name="get_Change_PDF_Properties" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663708" Name="get_Compress___Decompress_PDF" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663709" Name="get_Creation_Date_and_Time" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663710" Name="get_Current_Custom_Date" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663711" Name="get_Current_Date" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663712" Name="get_Current_Date_and_Time" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663713" Name="get_Current_Day__DD_" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663714" Name="get_Current_Hour__HH_" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663715" Name="get_Current_Minute__MI_" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663716" Name="get_Current_Month__MM_" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663717" Name="get_Current_Second__SS_" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663718" Name="get_Current_Time" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663719" Name="get_Current_Year__YYYY_" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663720" Name="get_Directory_Name" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663721" Name="get_Directory_Path" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663722" Name="get_Download" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663723" Name="get_Download_new_version__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663724" Name="get_Encrypt_PDF" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663725" Name="get_Error" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663726" Name="get_Error__Could_not_Create_Directory_for_File" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663727" Name="get_Error__Could_not_send_Questionnaire__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663728" Name="get_Error__Wrong_User_Password_for_File" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663729" Name="get_Error_Could_not_change_Language__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663730" Name="get_Error_could_not_parse_Arguments__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663731" Name="get_Filename" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663732" Name="get_Filename_Without_Extension" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663733" Name="get_Full_File_Path" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663734" Name="get_I_did_find_a_free_application_to_compress_PDF_files__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663735" Name="get_Is_From_Windows_Explorer" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663736" Name="get_Last_Access_Date_and_Time" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663737" Name="get_Last_Write_Date_and_Time" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663738" Name="get_Operation_Cancelled__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663739" Name="get_Operation_completed_successfully__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663740" Name="get_Operation_completed_with_Errors__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663741" Name="get_Overwrite_PDF_Document" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663742" Name="get_Please_add_a_PDF_File_first__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663743" Name="get_Please_add_only_PDF_Files__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663744" Name="get_Please_add_PDF_Files_first__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663745" Name="get_Please_enter_a_Subfolder_Name__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663746" Name="get_Please_enter_a_valid_Subfolder_Name__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663747" Name="get_Please_enter_the_correct_User_Password__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663748" Name="get_Please_fill_out_the_Questionnaire__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663749" Name="get_Please_insert_a_Custom_Metadata_Property_Name__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663750" Name="get_Please_insert_a_valid_Password__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663751" Name="get_Please_specify_an_existing_output_folder__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663752" Name="get_Please_specify_another_option_as_the_Output_Folder__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663753" Name="get_Please_specify_PDF_Files_to_Compress_or_Decompress__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663754" Name="get_Same_Folder_of_PDF_Document" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663755" Name="get_Subfolder" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663756" Name="get_Subfolder_of_PDF_Document" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663757" Name="get_This_is_the_latest_version__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663758" Name="get_Unspecified_Error" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663759" Name="get_Would_you_like_to_add_also_Subdirectories__" Variables="V_0;" ParamCnt="0" />
+<Field Token="67109166" Name="resourceMan" />
+<Field Token="67109167" Name="resourceCulture" />
+<Type Token="33554478" Name="_4dotsFreePDFCompress.TranslateHelper" />
+<Method Token="100663760" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663761" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663762" Name="Translate" Variables="str;V_0;cm;trnstr;V_3;V_4;V_5;V_6;" ParamCnt="1" />
+<Field Token="67109168" Name="rm" />
+<Type Token="33554479" Name="_4dotsFreePDFCompress.Properties.Resources" />
+<Method Token="100663763" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663764" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663765" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663766" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663767" Name="get__4dots_logo_official" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663768" Name="get__lock" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663769" Name="get_about" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663770" Name="get_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663771" Name="get_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663772" Name="get_add2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663773" Name="get_arrow_right_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663774" Name="get_brush2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663775" Name="get_brush4" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663776" Name="get_check" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663777" Name="get_copy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663778" Name="get_delete" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663779" Name="get_delete1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663780" Name="get_document_info" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663781" Name="get_document_info1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663782" Name="get_edit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663783" Name="get_exit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663784" Name="get_facebook_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663785" Name="get_flash" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663786" Name="get_folder" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663787" Name="get_folder_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663788" Name="get_folder_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663789" Name="get_folder1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663790" Name="get_googleplus_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663791" Name="get_help2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663792" Name="get_import1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663793" Name="get_information" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663794" Name="get_information1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663795" Name="get_linkedin_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663796" Name="get_lock24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663797" Name="get_mail" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663798" Name="get_onlinepdfapps_com_main_screen_700_373" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663799" Name="get_package" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663800" Name="get_package1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663801" Name="get_paypal_donate" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663802" Name="get_pdf_compress_48" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663803" Name="get_social_twitter_box_white_icon_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663804" Name="get_splitbyte_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663805" Name="get_twitter_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663806" Name="get_youtube_32" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109169" Name="resourceMan" />
+<Field Token="67109170" Name="resourceCulture" />
+<Type Token="33554480" Name="_4dotsFreePDFCompress.Properties.Settings" />
+<Method Token="100663807" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663808" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663809" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663810" Name="get_Maximized" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663811" Name="set_Maximized" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663812" Name="get_Left" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663813" Name="set_Left" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663814" Name="get_Top" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663815" Name="set_Top" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663816" Name="get_Height" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663817" Name="set_Height" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663818" Name="get_Width" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663819" Name="set_Width" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663820" Name="get_LastVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663821" Name="set_LastVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663822" Name="get_LanguagesDownloaded" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663823" Name="set_LanguagesDownloaded" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663824" Name="get_Language" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663825" Name="set_Language" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663826" Name="get_OutputFolder1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663827" Name="set_OutputFolder1" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663828" Name="get_OutputFolder2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663829" Name="set_OutputFolder2" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663830" Name="get_OutputFolder3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663831" Name="set_OutputFolder3" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663832" Name="get_OutputFolder4" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663833" Name="set_OutputFolder4" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663834" Name="get_OutputFolder5" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663835" Name="set_OutputFolder5" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663836" Name="get_OutputFolderIndex" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663837" Name="set_OutputFolderIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663838" Name="get_KeepBackup" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663839" Name="set_KeepBackup" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663840" Name="get_CompressImages" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663841" Name="set_CompressImages" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663842" Name="get_ImageQuality" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663843" Name="set_ImageQuality" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663844" Name="get_AddFolderRecent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663845" Name="set_AddFolderRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663846" Name="get_AddFilesRecent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663847" Name="set_AddFilesRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663848" Name="get_ImportListRecent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663849" Name="set_ImportListRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663850" Name="get_LastCheckVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663851" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663852" Name="get_Price" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663853" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663854" Name="get_KeepFolderStructure" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663855" Name="set_KeepFolderStructure" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663856" Name="get_FirstTimeRun" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663857" Name="set_FirstTimeRun" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663858" Name="get_InvertImages" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663859" Name="set_InvertImages" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663860" Name="get_InvertImages2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663861" Name="set_InvertImages2" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663862" Name="get_Grayscale" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663863" Name="set_Grayscale" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663864" Name="get_BlackAndWhite" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663865" Name="set_BlackAndWhite" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663866" Name="get_DoNotAskForPassword" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663867" Name="set_DoNotAskForPassword" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663868" Name="get_CheckWeek" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663869" Name="set_CheckWeek" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663870" Name="get_KeepCreationDate" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663871" Name="set_KeepCreationDate" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663872" Name="get_KeepLastModificatonDate" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663873" Name="set_KeepLastModificatonDate" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663874" Name="get_ShowMessageOnSucess" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663875" Name="set_ShowMessageOnSucess" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663876" Name="get_ShowResultWindow" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663877" Name="set_ShowResultWindow" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663878" Name="get_ExploreOutputFolder" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663879" Name="set_ExploreOutputFolder" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663880" Name="get_ShowPromotion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663881" Name="set_ShowPromotion" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109171" Name="defaultInstance" />
+<Type Token="33554481" Name="&lt;PrivateImplementationDetails&gt;" />
+<Field Token="67109172" Name="10AD4DB5F3D8557B12159CE570A84B8F2CF36434AE9E6D6BB027C3D7B3A2B996" />
+<Field Token="67109173" Name="39DD69F1362512ECE144B03C7D9F4FB0865DE5BCDCCDB4DE4525241563B787CD" />
+<Field Token="67109174" Name="84FEC36AA1CEB45579852C751384C213C15B653A38C102598F8B2FC6A2E9B13A" />
+<Field Token="67109175" Name="8BD7E3D8F8D2D6F513F59C7E98CB9CFF0B2AC7C3CFAF8CEA3A931B32B3E5D5FF" />
+<Field Token="67109176" Name="8F3746B7E33B1AD4CBAB50B3397734E2D48A71F12421B748FA09FDECD79C24AA" />
+<Field Token="67109177" Name="A9D291DE19A3B25AED0ACFB67CA8ECF4BF519096DF2382B9DC14C3BC77A995AB" />
+<Field Token="67109178" Name="B5571793400D3B50825AF31DD6D015CEAB2D9A3F99BE24F6B0EF91C730D11472" />
+<Field Token="67109179" Name="D63C62F6707FC29AD5F6C86AF18C94FA38A8C13B873CEE53CAC9CF017013C866" />
+<Field Token="67109180" Name="D99AD013B9373E19316C47C8A438532FDC729CB0595FC89B22D430C52A4F5345" />
+<Field Token="67109181" Name="E86880013D5D5FE4786C1415B972E85B2EDDE75568ACAC83DFF90069B45387D9" />
+<Type Token="33554482" Name="_4dotsFreePDFCompress.frmProgress/HideFormDelegate" />
+<Method Token="100663882" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663883" Name="Invoke" Variables="this;" ParamCnt="1" />
+<Method Token="100663884" Name="BeginInvoke" Variables="this;callback;object;" ParamCnt="3" />
+<Method Token="100663885" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554483" Name="_4dotsFreePDFCompress.frmProgress/ShowFormDelegate" />
+<Method Token="100663886" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663887" Name="Invoke" Variables="this;" ParamCnt="1" />
+<Method Token="100663888" Name="BeginInvoke" Variables="this;callback;object;" ParamCnt="3" />
+<Method Token="100663889" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554484" Name="_4dotsFreePDFCompress.MessageHelper/COPYDATASTRUCT" />
+<Field Token="67109182" Name="dwData" />
+<Field Token="67109183" Name="cbData" />
+<Field Token="67109184" Name="lpData" />
+<Type Token="33554485" Name="&lt;PrivateImplementationDetails&gt;/__StaticArrayInitTypeSize=20" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663307" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>

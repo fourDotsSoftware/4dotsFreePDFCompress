@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F8214707-9DCC-4A9B-8E03-9959B2003202}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_4dotsFreePDFCompress</RootNamespace>
+    <AssemblyName>4dotsFreePDFCompress</AssemblyName>
+    <ApplicationIcon>pdf-compress-48-transp3.ico</ApplicationIcon>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <ApplicationRevision>0</ApplicationRevision>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Excel, Version=2.1.2.3, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="FreeImageNET, Version=3.15.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FreeImageNET.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.85.5.452, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\codelib\pdf\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="LumenWorks.Framework.IO, Version=3.8.0.0, Culture=neutral, PublicKeyToken=5ad3ea2f85776344, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\LumenWorks.Framework.IO.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArgsHelper.cs" />
+    <Compile Include="ColorSpace.cs" />
+    <Compile Include="CustomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomForm.designer.cs">
+      <DependentUpon>CustomForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DownloadSuggestionsHelper.cs" />
+    <Compile Include="ExcelImporter.cs" />
+    <Compile Include="frmDownloadUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDownloadUpdate.designer.cs">
+      <DependentUpon>frmDownloadUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMultipleFiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMultipleFiles.designer.cs">
+      <DependentUpon>frmMultipleFiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPromotion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPromotion.Designer.cs">
+      <DependentUpon>frmPromotion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResult.Designer.cs">
+      <DependentUpon>frmResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PDFCompressHelper.cs" />
+    <Compile Include="ExceptionHandlersHelper.cs" />
+    <Compile Include="frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAbout.designer.cs">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLanguage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLanguage.designer.cs">
+      <DependentUpon>frmLanguage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMessage.designer.cs">
+      <DependentUpon>frmMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOutputSubFolder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOutputSubFolder.designer.cs">
+      <DependentUpon>frmOutputSubFolder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPassword.designer.cs">
+      <DependentUpon>frmPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProgress.designer.cs">
+      <DependentUpon>frmProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MessageHelper.cs" />
+    <Compile Include="Module.cs" />
+    <Compile Include="NiceLine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OutputFolderHelper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RecentFilesHelper.cs" />
+    <Compile Include="RegistryHelper2.cs" />
+    <Compile Include="ShareHelper.cs" />
+    <Compile Include="ucTextProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ucTextProgressBar.designer.cs">
+      <DependentUpon>ucTextProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateHelper.cs" />
+    <EmbeddedResource Include="CustomForm.resx">
+      <DependentUpon>CustomForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDownloadUpdate.resx">
+      <DependentUpon>frmDownloadUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLanguage.resx">
+      <DependentUpon>frmLanguage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMessage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMultipleFiles.resx">
+      <DependentUpon>frmMultipleFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOutputSubFolder.resx">
+      <DependentUpon>frmOutputSubFolder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPassword.resx">
+      <DependentUpon>frmPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProgress.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPromotion.resx">
+      <DependentUpon>frmPromotion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResult.resx">
+      <DependentUpon>frmResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResFlags.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ResFlags.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ResTranslate.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ResTranslate.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucTextProgressBar.resx">
+      <DependentUpon>ucTextProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ResFlags.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ResFlags.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ResTranslate.Designer.cs">
+      <DependentUpon>ResTranslate.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="TranslateHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_belarus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_china.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_croatia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_czech_republic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_denmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_estonia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_finland.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_france.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_georgia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_germany.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_great_britain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_greece.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_hungary.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_iceland.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_india.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_indonesia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_iran.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_israel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_italy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_japan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_latvia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_lithuania.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_netherlands.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_norway.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_poland.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_portugal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_romania.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_russia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_saudi_arabia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_slovakia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_slovenia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_south_korea.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_spain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_sweden.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_thailand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_turkey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_ukraine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_vietnam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4dots_logo_official.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_right_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pdf_password_remover.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information1.png" />
+    <None Include="Resources\information.png" />
+    <None Include="Resources\pdf_properties_changer.ico" />
+    <None Include="Resources\social-twitter-box-white-icon_24.png" />
+    <None Include="Resources\flash.png" />
+    <None Include="Resources\folder1.png" />
+    <None Include="Resources\200px-AGPLv3_Logo.svg.png" />
+    <None Include="Resources\document_info1.png" />
+    <None Include="Resources\lock1.png" />
+    <None Include="Resources\brush2.png" />
+    <None Include="Resources\delete1.png" />
+    <None Include="Resources\folder_add1.png" />
+    <None Include="Resources\add2.png" />
+    <None Include="Resources\add1.png" />
+    <None Include="Resources\pdf_encrypter_32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splitbyte_100_b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splitbyte_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\package.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\package1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="pdf-compress-48-transp.ico" />
+    <Content Include="pdf-compress-48-transp2.ico" />
+    <Content Include="pdf-compress-48-transp3.ico" />
+    <Content Include="pdf-compress-48.ico" />
+    <None Include="Resources\copy.png" />
+    <None Include="Resources\onlinepdfapps.com-main screen-700-373.jpg" />
+    <None Include="Resources\paypal-donate.gif" />
+    <None Include="Resources\youtube-32.png" />
+    <None Include="Resources\googleplus-24.jpg" />
+    <None Include="Resources\linkedin-24.jpg" />
+    <None Include="Resources\mail.png" />
+    <None Include="Resources\twitter-24.jpg" />
+    <None Include="Resources\facebook-24.jpg" />
+    <None Include="Resources\import1.png" />
+    <None Include="Resources\pdf-compress-48.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
